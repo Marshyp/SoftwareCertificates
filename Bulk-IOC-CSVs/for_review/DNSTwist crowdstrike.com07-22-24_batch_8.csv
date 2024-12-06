@@ -1,0 +1,999 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,crowdstriker.com,,Block,,Dnstwist addition,"Reason for DNSTwist Block: addition
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrie-0v9d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrie-1j2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrie-1wb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrie-dxb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrie-ok2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrie-q74h.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrie-zid.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-0mb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-42d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-67a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-6q3e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-86a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-9nb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-emb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-jc2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-k7a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-kde.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-nnb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-rlb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrik-v7a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-28a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-39c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-4ub.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-5v3e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-6ne.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-8sb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-e9a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-g8a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-ioe.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-iub.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-msb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-ntd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-r8a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-sw3e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-vne.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbstrke-vtb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-0y2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-49b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-87b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-ey2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-i9b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-v8b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-xg79a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-yve.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowbtrike-yxd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclsrike-3b9e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclsrike-bic.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclsrike-ebe.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclsrike-fb9e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclsrike-ojc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclsrike-z6c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclsrike-zic.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-08e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-19e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-7dc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-938e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-c68e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-d9e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-jdc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-kse.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-o7d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-o8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-wec.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-y48e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstike-z6d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrie-b2b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrie-br8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrie-ctd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrie-n2b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrie-tu5e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrie-ye4i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrie-zr8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-1rb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-3i8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-89a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-919e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-9bb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-bge.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-drb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-lbb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-lqe.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-oqb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-qsb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-xbb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrik-zpb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-5xb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-61e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-7zb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-8cb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-e89e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-hxb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-j2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-jzb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-kcb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-ldb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-p79e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-qkd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-u1e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-uyb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-wcb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowclstrke-y4d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-6913b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-7fc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-jfc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-lhc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-n78e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-o9d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-obf.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-wgc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcltrike-y68e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcstrike-62b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcstrike-k4b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcstrike-r2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcstrike-v3b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowcstrike-x5b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlsrike-3b9e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlsrike-bic.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlsrike-ebe.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlsrike-fb9e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlsrike-ojc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlsrike-z6c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlsrike-zic.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-08e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-19e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-7dc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-938e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-c68e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-d9e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-jdc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-kse.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-o7d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-o8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-wec.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-y48e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstike-z6d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrie-b2b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrie-br8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrie-ctd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrie-n2b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrie-tu5e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrie-ye4i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrie-zr8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-1rb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-3i8e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-89a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-919e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-9bb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-bge.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-drb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-lbb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-lqe.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-oqb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-qsb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-xbb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrik-zpb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-5xb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-61e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-7zb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-8cb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-e89e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-hxb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-j2e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-jzb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-kcb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-ldb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-p79e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-qkd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-u1e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-uyb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-wcb.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdlstrke-y4d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-6913b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-7fc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-jfc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-lhc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-n78e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-o9d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-obf.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-wgc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdltrike-y68e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-42b0192f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-42b05f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-42b0e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-42b2392f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-42b28r.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-42b2g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-42b8b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-93b072a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-93b51r.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-93b5572f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-93b7772f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-93b91087b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-9ge1379e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-9ge9079e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-9ld4680f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-9ld6880f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-9ldw.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-9s6d4773l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-f5b1172f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-f5b17q.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-f5b3372f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-f5b57977b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-f5b622a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-fq6d3d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-fq6d8c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-k2b0e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-k2b2392f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-k2b27f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-k2b2g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-k2b40s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-k2b4592f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-k2b4i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-p3b0192f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-p3b06r.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-p3b0e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-p3b82f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-p3b8882f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-p3b8b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-p3bw.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-ps6dz873l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-u4b3372f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-u4b39q.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-u4b5572f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-u4b79977b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-u4b842a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-umd1370f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-umd3570f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-umd59957b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-umd64i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-up6d3d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-up6dye.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-upc32j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-upc3691f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-upc5891f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-upc72277b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-upc87u.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-z1b2g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-z1b4592f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-z1b49f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-z1b4i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-z1b62s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-z1b6792f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdrike-z1b6k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-0jd1590f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-0jd3790f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-0jd3i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-50d1920f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-50d3130f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-5fe2579e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-5fe4779e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-5n6d9g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-5n6dng.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b0b1403f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b0b19s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b0b1r.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b0b7m.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b0b9103f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b0b95g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b0b9o.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b05q.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b0962f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b4372f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b502a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b612a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b722a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b82q.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b8662f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b88w.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-b4b942a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-bp6dsf.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-bp6dxe.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g1b3i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g1b51g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g1b5792f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g1b5k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g1b74s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g1b7992f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g1b7m.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b0962f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b161a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b271a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b381a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b4262f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b44w.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b48p.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b502a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b60q.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-g5b6462f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-lfe4779e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-lfe6979e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-lkd1590f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-lkd1g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-lkd9290f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-ln6d4h.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-ln6d9g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-qge0379e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-qge2579e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v0b5k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v0b73g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v0b7992f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v0b7m.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v0b9103f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v0b96s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v0b9o.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b2172f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b381a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b491a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b502a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b60q.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b6462f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b66w.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b722a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b82q.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-v4b8662f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vfe3679e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vfe5879e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd0170f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd18h.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd29h.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd30i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd4460f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd46c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd52i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vmd6660f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc2491f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc31u.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc42u.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc53u.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc63i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc6781f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc69o.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc75u.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc85i.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsike-vpc8981f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsr1ke-1cc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsr1ke-612e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsr1ke-fcc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsr1ke-fyc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsr1ke-k12e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsr1ke-myd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsr1ke-sbc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrice-1cc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrice-612e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrice-fcc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrice-fyc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrice-k12e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrice-myd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrice-sbc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-2rb48b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-2rb60c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-2rb6333f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-2rb67j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-2rb80w.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-2rb82c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-2rb8533f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-7w3d47l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-7w3d96l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-b4b09l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-b4b1822j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-b4b2522f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-b4b4722f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-b4b6998e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-bt6d127l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-dd6dtw.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-dd6dyv.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-g5b0322f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-g5b2598e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-g5b64l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-g5b7322j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-g5b8022f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-n7c1141f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-n7c16c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-n7c9831f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-qs6dw37l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-sc6dox.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-sc6dtw.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-srb59b.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-srb71c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-srb7433f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-srb78j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-srb91w.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-srb93c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-srb9633f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-v4b0322f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-v4b2522f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-v4b4798e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-v4b86l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-v4b9522j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vmd0520f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vmd2796e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vmd7520j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vmd8220f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vpc0641f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vpc2841f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vpc4028e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vpc89d.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrie-vpc9841j.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-34a03k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-34a22s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-34a25k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-34a2814f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-34a4024f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-34a454a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-34a47k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-3hb0273f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-3hb06n.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-3hb09f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-3hb21g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-3hb2473f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-3hb29z.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-3hb86f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-83a36k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-83a5124f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-83a55s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-83a58k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-83a70l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-83a7324f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-83a784a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-8ib42f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-8ib61n.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-8ib64f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-8ib6763f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-8ib84z.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-8ib86f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-8ib8963f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-b4b52w.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-b4b59s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-b4b7273f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-b4b9891f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-bt6d34a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-g5b15s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-g5b18v.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-g5b3863f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-g5b5491f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-j4a25k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-j4a4024f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-j4a44s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-j4a47k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-j4a6224f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-j4a674a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-j4a69k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jhb09f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jhb21g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jhb2473f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jhb28n.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jhb410a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jhb43g.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jhb4673f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jzd4530f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-jzd6730f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-oib0273f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-oib07z.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-oib09f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-oib64f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-oib83n.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-oib86f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-oib8963f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-qs6dy5a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-t4a14k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-t4a33s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-t4a36k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-t4a3914f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-t4a5124f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-t4a564a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-t4a58k.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-tjb20f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-tjb42f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-tjb4563f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-tjb49m.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-tjb62z.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-tjb64f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-tjb6763f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-v4b30w.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-v4b37s.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-v4b5073f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-v4b7691f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vmd10c.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vmd1n.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vmd3071f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vmd5699e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vpc30l.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vpc33o.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vpc5392f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-vpc7911f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-y45d86a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-y45dm6a.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-yqd4860f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrik-yqd6070f.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrikc-1cc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrikc-612e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrikc-fcc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrikc-fyc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrikc-k12e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrikc-myd.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrikc-sbc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrike-1cc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrike-612e.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
+DomainName,xn--crowdsrike-fcc.com,,Block,,Dnstwist homoglyph,"Reason for DNSTwist Block: homoglyph
+Tool written by jkerai1",,,,,False
