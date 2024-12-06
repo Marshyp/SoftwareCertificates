@@ -1,0 +1,211 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,247ithelp.com,,Block,Informational,Potentially Unsanctioned RMM: ConnectWise,https://lolrmm.io/tools/247ithelp.com__connectwise,,,,,False
+DomainName,screenconnect.com,,Block,Informational,Potentially Unsanctioned RMM: ConnectWise,Available as Block in MDA.,,,,,False
+DomainName,connectwise.com,,Block,Informational,Potentially Unsanctioned RMM: ConnectWise,Available as Block in MDA.,,,,,False
+DomainName,search.namequery.com,,Block,Informational,Potentially Unsanctioned RMM: Absolute,https://lolrmm.io/tools/absolute__computrace_ /  Available as Block in MDA.,,,,,False
+DomainName,absolute.com,,Block,Informational,Potentially Unsanctioned RMM: Absolute,https://lolrmm.io/tools/absolute__computrace_ /  Available as Block in MDA.,,,,,False
+DomainName,helpify.live,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,intelliadmin.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,cog-genomics.org,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,nssm.cc,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,tmate.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,monect.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,nomachine.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remoteassistance.support.services.microsoft.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: Quick Assist,Unsanctioned,,,,False
+DomainName,datto.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,anydesk.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned - Available as Block in MDA.,,,,False
+DomainName,kaseya.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,connectwise.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,teamviewer.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remotedesktop.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,level.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,solarwinds.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,idrive.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,realvnc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,mobatek.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,putty.org,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,vandyke.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM – SecureCRT,Unsanctioned,,,,False
+DomainName,zerotier.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,gotomypc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,simple-help.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,netsupportsoftware.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,install-anydeslk.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM  - Rhadamanthys Malware,Unsanctioned  - Rhadamanthys Malware,,,,False
+DomainName,atera.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,gotohttp.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,splashtop.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,ammyy.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remotepc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remoteutilities.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,glavsoft.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,tightvnc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,anydesk-r.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM - Fake Anydesk – batloader,Unsanctioned,,,,False
+DomainName,anydesk-o.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM - Fake Anydesk – batloader,Unsanctioned,,,,False
+DomainName,itheipdesk.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,rustdesk.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remotedesktop.google.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,anysupport.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,pcnow.webex.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,seetrol.co.kr,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,goverlan.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,bravurasoftware.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,n-able.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,tacticalrmm.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,beyondtrust.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,auvik.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,instanthousecall.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,screenmeet.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,litemanager.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,rudesktop.ru,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,logmein.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,netsupportmanager.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,gotoassist.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,spyanywhere.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,poweradmin.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,guacamole.apache.org,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,royalapps.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,ultraviewer.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,pandorafms.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,sorillus.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,islonline.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,aeroadmin.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,uvnc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,ngrok.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,ninjaone.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remotecall.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,skyfex.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,deskroll.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,ericom.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,donkz.nl,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,itsupport247.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,distantdesktop.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remote.it,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,desknets.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,bt-work.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,4remotesupport.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,gotoresolve.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,atera.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,fleetdeck.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,fleetdm.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,meshcentral.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,pulseway.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,supremocontrol.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,nanosystems.it,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,gotoresolve.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,ngrok-agent.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,update.equinox.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,ngrok.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,myconnectwise.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,simple-help.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,tailscale.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,tailscale.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,tunnels.api.visualstudio.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zoho.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zoho.eu,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zoho.in,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zoho.com.au,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zoho.com.cn,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zohoassist.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zohoassist.jp,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zohoassist.com.cn,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zohodl.com.cn,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zohocdn.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,zohoassist.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,kickidler.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,todesk.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,aweray.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remobo.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,weezo.en.softonic.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,laplink.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,potomacsoft.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,x2go.org,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,pcvisit.de,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,iperiusremote.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,deskshare.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,helpbeam.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,systemmanager.ru,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,pulse.soti.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,rmansys.ru,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,anyviewer.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,naverisk.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,mygreenpc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,realvnc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,khelpdesk.com.br,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,syspectr.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,tigervnc.org,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remotepass.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,superops.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,addigy.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,action1.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,devolutions.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,parallels.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,quest.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,netsarang.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,sharemouse.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,fixme.it,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,radmin.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,alpemix.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,islonline.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,instanthousecall.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,level.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,aomeisoftware.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,anyplace-control.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,remotix.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,wangwang.taobao.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,teknopars.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,beamyourscreen.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,centuriontech.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,bomgarcloud.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,beyondtrustcloud.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,beinsync.net,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,beinsync.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,x2go.org,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,showmypc.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,simple-help.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,servereye.de,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,rport.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+DomainName,runsmart.io,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpdm17hk323c4x,,Block,Informational,Unsanctioned: RMM Teamviewer,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpfcxhf337w98s,,Block,Informational,Unsanctioned: RMM - Devolutions Remote Desktop Manager,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpfcww02p2xjnm,,Block,Informational,Unsanctioned: RMM - Devolutions Workspace,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpdnfxglrvjs9c,,Block,Informational,Unsanctioned: RMM - Devolutions Launcher,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9p5ztp14lqbr,,Block,Informational,Unsanctioned: RMM - Remote Toolbox,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nfd5hqtqgbm,,Block,Informational,Unsanctioned: RMM - RemSupp - Remote Desktop,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nql4qkv9cx6,,Block,Informational,Unsanctioned: RMM - Remote Desktop - Security Connection,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nmsgrxc0rwn,,Block,Informational,Unsanctioned: RMM - Mobile Connect 2,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9pnmnf92jnfp,,Block,Informational,Unsanctioned: RMM - 1Remote - mstsc remote desktop,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9p90cmj610d0,,Block,Informational,Unsanctioned: RMM - Team Remote Desktop,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9pnmnf92jnfp,,Block,Informational,Unsanctioned: RMM - 1Remote - mstsc remote desktop,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp99dvcpgktxnj,,Block,Informational,Unsanctioned: RMM - RealVNC Viewer,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp98vl6ml4gps9,,Block,Informational,Unsanctioned: RMM - RealVNC Server,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9pc9d7xxzm5s,,Block,Informational,Unsanctioned: RMM - PortX,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/TigerVNC/tigervnc,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/stascorp/rdpwrap,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/flit/cotvnc,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://beinsync.en.uptodown.com/windows,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://launchpad.net/~x2go/,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://weezo.en.softonic.com,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/Mikej81/WebRDP,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/V-E-O/rdp2tcp,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/amidaware/tacticalrmm,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/flit/cotvnc,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/Ylianst/MeshCentral,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/amidaware/rmmagent,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+Url,https://github.com/rustdesk/rustdesk,,Block,Informational,Unsanctioned: RMM,Unsanctioned: RMM,Unsanctioned,,,,False
+FileSha256,683fd29286a7f86cc2873a3ca3f07e3c8af8a97e1961b99625531acba29fe57e,,BlockAndRemediate,Informational,Unsanctioned: RMM,Chaos RMM,Unsanctioned,,,,False
+FileSha256,BCF3041B1C822D0394AB02089FB516F2F3DA9615A00ACCE681238A0AB432DC98,,BlockAndRemediate,Informational,Unsanctioned: RMM,1Remote - mstsc remote desktop Installer.exe RMM https://www.virustotal.com/gui/file/bcf3041b1c822d0394ab02089fb516f2f3da9615a00acce681238a0ab432dc98,Unsanctioned,,,,False
+FileSha256,B9222695BE95E6559196C40473A7A15FBF4185C863AF9A3A469BED92362F147B,,BlockAndRemediate,Informational,Unsanctioned: RMM,Devolutions Workspace Installer.exe RMM Devolutions Workspace Installer.exe	VT (0/76)	https://www.virustotal.com/gui/file/b9222695be95e6559196c40473a7a15fbf4185c863af9a3a469bed92362f147b/detection,Unsanctioned,,,,False
+FileSha256,7A5AA84380B07EF38F73B046B5CA8AD62814B0B3B925B0ED2963EE084C90A32D,,BlockAndRemediate,Informational,Unsanctioned: RMM,Devolutions Launcher Installer.exe	VT (0/76)	https://www.virustotal.com/gui/file/7a5aa84380b07ef38f73b046b5ca8ad62814b0b3b925b0ed2963ee084c90a32d/detection,Unsanctioned,,,,False
+FileSha256,77DD08BE900C475D22428FA87FB3D06C98A3ACA7207698FED986DF162C1DE975,,BlockAndRemediate,Informational,Unsanctioned: RMM,Remote Toolbox Installer.exe	VT (0/76)	https://www.virustotal.com/gui/file/77dd08be900c475d22428fa87fb3d06c98a3aca7207698fed986df162c1de975/detection,Unsanctioned,,,,False
+FileSha256,A534D968210A1F6616CCCF97B09A7D9B54A7ABA50FB6DDA97E830FC81DFE8BBF,,BlockAndRemediate,Informational,Unsanctioned: RMM,Remote Desktop - Security Connection Installer.exe	VT (0/76)	https://www.virustotal.com/gui/file/a534d968210a1f6616cccf97b09a7d9b54a7aba50fb6dda97e830fc81dfe8bbf/detection,Unsanctioned,,,,False
+FileSha256,92E423ED24F0DBFDB6685C9CE095822ED6A557B3D66BC1409ACBC9A9B0AA626F,,BlockAndRemediate,Informational,Unsanctioned: RMM,RealVNC Viewer Installer.exe	VT (0/76)	https://www.virustotal.com/gui/file/92e423ed24f0dbfdb6685c9ce095822ed6a557b3d66bc1409acbc9a9b0aa626f/detection,Unsanctioned,,,,False
+FileSha256,61E1A77081B4ADD51612F73CF16ADFBE4FCF4448ADB53E4FF4FE494F9CE0281C,,BlockAndRemediate,Informational,Unsanctioned: RMM,RealVNC Server Installer.exe	VT (0/76)	https://www.virustotal.com/gui/file/61e1a77081b4add51612f73cf16adfbe4fcf4448adb53e4ff4fe494f9ce0281c/detection,Unsanctioned,,,,False
+FileSha256,7B00A11F51AECF3D40BA8B100F5ABB6E49528145B6111F3223156336BA597776,,BlockAndRemediate,Informational,Unsanctioned: RMM,PortX Installer.exe	VT (0/76)	https://www.virustotal.com/gui/file/7b00a11f51aecf3d40ba8b100f5abb6e49528145b6111f3223156336ba597776/detection,Unsanctioned,,,,False
+FileSha256,04E829A0110B7CE224A64D5C61A31E8EE9EED91846FAC6C368F777EB95D4ACBF,,BlockAndRemediate,Informational,Unsanctioned: RMM,Devolutions Remote Desktop Manager Installer.exe	VT https://www.virustotal.com/gui/file/04e829a0110b7ce224a64d5c61a31e8ee9eed91846fac6c368f777eb95d4acbf/detection,Unsanctioned,,,,False
+FileSha256,6F4FAC47CCE99E6D83BB381C08CC4FD8705550C171F365C898C336C5B9BBBAA3,,BlockAndRemediate,Informational,Unsanctioned: RMM,Remote Desktop - Security Connection - SERemote.exe - https://www.virustotal.com/gui/file/6F4FAC47CCE99E6D83BB381C08CC4FD8705550C171F365C898C336C5B9BBBAA3/,Unsanctioned,,,,False
+FileSha256,C6506A3769713E41E4A01699CB03DC4D3E64407FBA17237712BCB471E3DCF3E5,,BlockAndRemediate,Informational,Unsanctioned: RMM,RemSupp - Remote Desktop - https://www.virustotal.com/gui/file/C6506A3769713E41E4A01699CB03DC4D3E64407FBA17237712BCB471E3DCF3E5/,Unsanctioned,,,,False
+FileSha256,A64B5033FA85BD4FB238F518FE6E8BD4CF6802033235374FAF36821D820AA59E,,BlockAndRemediate,Informational,Unsanctioned: RMM,Remote Toolbox - WinWoL.exe	VT (0/0)	https://www.virustotal.com/gui/file/a64b5033fa85bd4fb238f518fe6e8bd4cf6802033235374faf36821d820aa59e/detection,Unsanctioned,,,,False
+FileSha256,AD4CCBE81C753705F4916FF8C9153835B61DBEA0125DF2E9D1ED58C34802D4EE,,BlockAndRemediate,Informational,Unsanctioned: RMM,Devolutions Remote Desktop Manager - RemoteDesktopManager.exe	VT (0/76)	https://www.virustotal.com/gui/file/ad4ccbe81c753705f4916ff8c9153835b61dbea0125df2e9d1ed58c34802d4ee/detection,Unsanctioned,,,,False
+FileSha256,040218B628BEB03AD0EC79F092CE9DE02D895D57C75F782F9FF6176B9A882305,,BlockAndRemediate,Informational,Unsanctioned: RMM,Devolutions Workspace - workspace.exe	VT (0/76)	https://www.virustotal.com/gui/file/040218b628beb03ad0ec79f092ce9de02d895d57c75f782f9ff6176b9a882305/detection,Unsanctioned,,,,False
+FileSha256,6351F8659B2FCD281457D61E534D2A54EC06BA76C1DFCC85C904FA83F462A3CC,,BlockAndRemediate,Informational,Unsanctioned: RMM,1Remote - MSTC Remote Desktop - 1Remote.exe	VT (0/76)	https://www.virustotal.com/gui/file/6351f8659b2fcd281457d61e534d2a54ec06ba76c1dfcc85c904fa83f462a3cc/detection,Unsanctioned,,,,False
+FileSha256,52A7C3D04B7D1197E9D3B2840F105CC6CC7CC0475557D54AD5C875B93EE5565E,,BlockAndRemediate,Informational,Unsanctioned: RMM,Team Remote Desktop - TeamRemoteDesktop.exe	VT (0/76)	https://www.virustotal.com/gui/file/52a7c3d04b7d1197e9d3b2840f105cc6cc7cc0475557d54ad5c875b93ee5565e/detection ,Unsanctioned,,,,False

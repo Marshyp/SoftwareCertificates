@@ -1,0 +1,205 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,streamingsites.com,,Block,Informational,Piracy,Piracy,,,,,False
+DomainName,primewire.ag,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yesmovies.ag,,Block,Informational,Piracy,Piracy,,,,,False
+DomainName,tubitv.com,,Block,Informational,Piracy,Piracy,,,,,False
+DomainName,swatchseries.mx,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,hdrezka.website,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,flixtor.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,1movies.is,,Block ,Low,Piracy,Piracy,,,,,False
+DomainName,azm.to,,Block ,Low,Piracy,Piracy,,,,,False
+DomainName,knaben.eu,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,knaben.xyz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,viki.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,solarmovie.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,0123Movies.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,8Putlocker.vip,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,nyaa.si,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yts-official.mx,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,tokyotosho.info,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,1377x.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,icetorrent.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,speedapp.io,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,1337xto.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yts.homes,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,rarbg.tw,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,rargb.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetorrent.cc,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentz2.netlify.app,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,eztv.unblocked.how,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,tixati.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentkitty.asia,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetorrents.lol,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,openwebtorrent.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,icetorrent.org,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://chromewebstore.google.com/detail/bittorent-for-chrome/aahnibhpidkdaeaplfdogejgoajkjgob,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,deluge-torrent.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,nicotine-plus.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,slsknet.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,soulseekqt.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,utorrent.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentfreak.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,bittorrent.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,glodls.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,vpnoverview.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,1337x.st,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,x1337x.ws,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,x1337x.eu,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,x1337x.se,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentz2eu.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentz2.cyou,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentdownloads.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentdownloads.me,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentfunk2.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,idope.pw,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,idope.buzz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yourbittorrent2.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yts.am,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yts.pm,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yts.lt,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,eztv.wf,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,eztv.yt,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,eztv.tf,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetorrents.asia,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetorrents.zone,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetorrents.co,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetor.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetor.pro,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,nyaa.ink,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,nyaa.iss.one,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,isohunt.nz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,rutracker.nl,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,rutracker.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,fitgirl-repacks.site,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,gazellegames.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetorrents.life,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,limetorrents.lol,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yts.rs,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,1337x.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,tpbproxypirate.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,pirateproxy.space,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,tpbpirateproxy.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,thepiratebay.rocks,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentz.eu.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrends.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentdownloads.pro,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,dirtytorrents.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,bitport.io,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,idope.skin,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,eztv.re,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,anidex.info,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,publicdomaintorrents.info,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,isohunt.app,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torlock2.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,iptorrents.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,bibliotik.me,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,demonoid.is,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,rutracker.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,interviewfor.red,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,myanonamouse.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,qbittorrent.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,libtorrent.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,freesoff.com,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://libredd.it/r/FREEMEDIAHECKYEAH,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://www.reddit.com/r/FREEMEDIAHECKYEAH,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,e3.me,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,extratorrent.st,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentz2k.xyz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,monkrus.ws,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,infogalactic.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,transmissionbt.com,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://github.com/Mika-/torrent-control,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,wiztorrent.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,lookmovie2.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,onionplay.se,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,catflix.su,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,crackle.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,vidcloud1.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,showflix.xyz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,shout-tv.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,streamlord.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,uniquestream.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,ridomovies.tv,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,pluto.tv,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,9pm.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,kanopy.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,moviexfilm.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,motrix.app,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://github.com/picotorrent/picotorrent,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,codecpack.co,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,pikatorrent.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,distribyted.com,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://github.com/drakonkat/Crawfish,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,tribler.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,xd-torrent.github.io,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://github.com/majestrate/XD/releases,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://github.com/SuRGeoNix/BitSwarm/,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,btorrent.xyz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,instant.io,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://ferrolho.github.io/magnet-player/,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://github.com/astro/bitford,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://github.com/DEgITx/rats-search,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,decentnet.github.io,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,beakerbrowser.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,scuttlebutt.nz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,flood.js.org,,Block,Low,Piracy,Piracy,,,,,False
+Url,https://www.reddit.com/r/seedboxes/,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,megacloud.tv,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,tvonline123.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,onionplay.city,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,cocostream.ren,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,fmovie.space,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,fmoviess.me,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,filmzie.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,0fmovies.co,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,fmovie.is,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yesmovies9.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,cracked.io,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,plwcse.top,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,rgmechanics.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,playretrogames.online,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,myflixer.stream,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,dopebox.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,filelist.ro,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,metal-tracker.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,newgamesbox.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,pcgameszone.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,fitgirl-repacks.site,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,datanodes.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,krakenfiles.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,kruegervich.net,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,pixeldrain.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,biglybt.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,vuze.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,unblocked.how,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,unblocked.tube,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentbay.st,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,torrentsbay.org,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,unblockit.download,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,ninjaproxy1.com,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,ymovies.top,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,yiffer.xyz,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,bin.sx,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,leak.sx,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,nulled.to,,Block,Low,Piracy,Piracy,,,,,False
+DomainName,tmpfiles.org,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,tempfile.io,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,tmpsend.com,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,temp-file-share.web.app,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,temp.sh,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,filebin.net,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,uploadnow.io,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,123-movies.bet,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,freedownloadmanager.org,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,netaquatics.co.za,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,westcoastentertainment.co.za,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,yeschef.co.za,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,africlone.co.za,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,snowfl.com,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,proxykat.net,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,romanr.info,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,bitflu.workaround.ch,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,qbittorrent.org,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,yts.contact,,Block,Low,Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+DomainName,utorrent-client.github.io,,Block,Low,Malware Piracy/Temp File Hosting/Malware Delivery,Piracy,,,,,False
+Url,https://chromewebstore.google.com/detail/torrent-scanner/aegnopegbbhjeeiganiajffnalhlkkjb,,Block,Low,Piracy,Piracy: torrent scanner Browser extension,,,,,False
