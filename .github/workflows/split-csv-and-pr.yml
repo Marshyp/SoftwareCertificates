@@ -23,6 +23,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas
 
+    - name: Count files in folder
+      run: |
+        FOLDER='Bulk-IOC-CSVs'
+        FILE_COUNT=$(find "$FOLDER" -type f | wc -l)
+        echo "file_count=$FILE_COUNT" >> $GITHUB_ENV
+      shell: bash
+
     - name: Run CSV Splitter
       run: python .github/scripts/splitIOCs.py
       env:
