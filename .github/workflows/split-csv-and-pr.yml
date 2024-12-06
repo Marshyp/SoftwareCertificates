@@ -25,7 +25,7 @@ jobs:
 
     - name: Count files in folder
       run: |
-        FOLDER='Bulk-IOC-CSVs'
+        FOLDER="Bulk-IOC-CSVs"
         FILE_COUNT=$(find "$FOLDER" -type f | wc -l)
         echo "file_count=$FILE_COUNT" >> $GITHUB_ENV
       shell: bash
