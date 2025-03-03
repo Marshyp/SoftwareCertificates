@@ -1,0 +1,114 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,hangouts.google.com,,Warn,Low,Chat application,Chat application,,,,,False
+DomainName,talk.google.com,,Warn,Low,Chat application,Chat application,,,,,False
+DomainName,messenger.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,nheko-reborn.github.io,,Block,Informational,Chat Application,Chat Application,,,,,False
+DomainName,trillian.im,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,loom.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,matrix.org,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,element.io,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,meetfranz.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,telegram.org,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,t.me,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,telegram.me,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,telegram-cdn.org,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,telesco.pe,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,discord.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,discordapp.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,discordsays.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,betterdiscord.app,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,cancel.fm,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,guilded.gg,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,jami.net,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,line.me,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,linecorp.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,line.biz,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,line-apps.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,line.naver.jp,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,line-scdn.net,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,line-website.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,linepluscorp.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,getsession.org,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,signal.org,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,whispersystems.org,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,wechat.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,teamspeak.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,whatsapp.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,whatsapp.net,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,viber.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,viber.en,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,wickr.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,mirc.co.uk,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,oovoo.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,pidgin.im,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,snapchat.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,chaturbate.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,stripchat.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,kik.com,,Block,Informational,Chat application,Chat application,,,,,False
+DomainName,ometv.chat,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,kakaocorp.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,tox.chat,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,threema.ch,,Block ,Low,Chat application,Chat application,,,,,False
+DomainName,beeper.com,,Block ,Low,Chat application,Chat application,,,,,False
+DomainName,icq.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,chatdate.app,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,chatroulette.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,roulette.chat,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,wechat.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,paltalk.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,weechat.org,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,fluffychat.im,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,cinny.in,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,matrix.to,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,schildi.chat,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,twitch.tv,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,kick.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,raidcall.com.ru,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,onlinechatus.org.in,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,chatrooms.org.in,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,omessenger.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,me-talk.ru,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,incircle.jp,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,omessenger.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,immomo.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,gg.pl,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,livelinks.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,chatzy.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,camfrog.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,mightytext.net,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,twoo.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,hitto.jp,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,zalo.me,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,hitto.jp,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,minsh.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,getconfide.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,keybase.io,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,yandex.ru,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,crypto-chat.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,aminoapps.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,clubhouse.com,,Block,Low,Chat application,Chat application,,,,,False
+DomainName,0day.im,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,0day.la,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,01337.ru,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,01337.io,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,c99x.io,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,c99x.cc,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,htp.im,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,hell.la,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,sqli.io,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,shad0w.ru,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,shad0w.la,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,shad0w.io,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,breached.im,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,toad.im,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,darknet.im,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,xmpp.xxx,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,nigg.ir,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,priv.vc,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,Breached.im,,Block,Low,darknet IM Chat Website,darknet IM Chat Website,,,,,False
+DomainName,oguser.com,,Block,Low,Chat Website,Chat Website,,,,,False
+DomainName,revolt.chat,,Block,Low,chat Website,Chat Website,,,,,False
+DomainName,taterealworld.com,,Block,Low,Chat Website,Chat Website,,,,,False
+Url,https://apps.microsoft.com/detail/9nmtvmrj7n1k,,Block,Low,Chat App - Revolt,Chat App - Revolt,,,,,False
+FileSha256,624CBF9634B2BAEC7F76CC1B8E34347BF2918216D85A2EA52C0B7F220449B8A2,,BlockAndRemediate,Informational,Chat Application - nheko,nheko.exe	VT (0/76)	https://www.virustotal.com/gui/file/624cbf9634b2baec7f76cc1b8e34347bf2918216d85a2ea52c0b7f220449b8a2/detection,Unsanctioned,,,,False
+FileSha256,41A5E0852F665FA7415A21275F9F9B4307670326499588D448ADF6463E1CFD22,,BlockAndRemediate,Informational,Chat Application - Revolt-Setup,Revolt-Setup-1.0.8.exe	VT (1/75)	https://www.virustotal.com/gui/file/41a5e0852f665fa7415a21275f9f9b4307670326499588d448adf6463e1cfd22/detection,Unsanctioned,,,,False

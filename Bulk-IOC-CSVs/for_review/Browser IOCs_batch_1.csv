@@ -1,0 +1,125 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,astian.org,,Block,Informational,Midori Browser,Midori Browser,Unsanctioned,,,,False
+DomainName,bromite.org,,Block,Informational,Bromite Browser,Bromite Browser,Unsanctioned,,,,False
+DomainName,thorium.rocks,,Block,Informational,Throium Browser,Throium Browser,Unsanctioned,,,,False
+DomainName,librewolf.net,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,cromite.org,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,safe-guard.app,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,pinokio.computer,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,alohabrowser.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,waterfox.net,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,avantbrowser.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,briskbard.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,floorp.app,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,wavesor.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,palemoon.org,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,naver.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,dolphin-anty.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,avast.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,arc.net,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,beakerbrowser.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,seamonkey-project.org,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,brave.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,vivaldi.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,epicbrowser.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,maxthon.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,mullvad.net,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,opera.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,puffin.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,yandex.com,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,yandex.ru,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+DomainName,yandex-browser.en.uptodown.com,,Block,Informational,Unsanctioned browser,TBH I'd just block the entire of .uptodown.com,Unsanctioned,,,,False
+DomainName,torproject.org,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,cryptotabbrowser.com,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,brow.sh,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,invisible-island.net,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,or.cz,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,twibright.com,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,dillo.org,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,qutebrowser.org,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,w3m.sourceforge.net,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,retawq.sourceforge.net,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,webbie.org.uk,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,lynx.browser.org,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+DomainName,zen-browser.app,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+Url,https://github.com/zen-browser/desktop,,Block,Informational,Unsanctioned browser,Unsanctioned,Unsanctioned,,,,False
+Url,https://github.com/atsepkov/Graphene,,Block,Informational,Unsanctioned browser - Graphene Text Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/nmbazima/LinksWWWbrowser,,Block,Informational,Unsanctioned browser - Links Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/CMB/edbrowse,,Block,Informational,Unsanctioned browser - edbrowser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/fathyb/carbonyl,,Block,Informational,Unsanctioned browser - Yandex Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/lukeaschenbrenner/TxtNet-Browser,,Block,Informational,Unsanctioned browser - Yandex Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/zquestz/s,,Block,Informational,Unsanctioned browser - Yandex Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/FreeFull/runt,,Block,Informational,Unsanctioned browser - Yandex Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpfcfkcnntxgqd,,Block,Informational,Unsanctioned browser - Yandex Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9pd28ts2h9tr,,Block,Informational,Unsanctioned browser - Reluctant Web Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9n3g1m08p81p,,Block,Informational,Unsanctioned browser - One Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9ppnntg2g2g6,,Block,Informational,Unsanctioned browser - Web Macro Bot,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nvn9sz8kfd7,,Block,Informational,Unsanctioned browser - Librewolf,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp99gvqdx7jpr4,,Block,Informational,Unsanctioned browser - Vivaldi,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9n38ctmdrbff,,Block,Informational,Unsanctioned browser - Radon Browser Dev,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9pnxw61t4t0v,,Block,Informational,Unsanctioned browser - BlueBird Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nblggh4lz15,,Block,Informational,Unsanctioned browser - DarkBrowser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nsdnbl6xk4l,,Block,Informational,Unsanctioned browser - Firefly Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9wzdncrdr3wm,,Block,Informational,Unsanctioned browser - WebBrowser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp89dmjvg2wpz1,,Block,Informational,Unsanctioned browser - SideKick,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp9bf0wdp27s5t,,Block,Informational,Unsanctioned browser - Carbonate browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9mxg2155xxg2,,Block,Informational,Unsanctioned browser - GPTBrowser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9p5bk1mj0rdd,,Block,Informational,Unsanctioned browser - BrowserPro+,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpdbz4mprknn30,,Block,Informational,Unsanctioned browser - OperaGX,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp8cf6s8g2d5t6,,Block,Informational,Unsanctioned browser - Opera,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9n4tfbzk2c7s,,Block,Informational,Unsanctioned browser - O-Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp8c9qzms2pc1t,,Block,Informational,Unsanctioned browser - Brave,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nblggh40gf4,,Block,Informational,Unsanctioned browser - Web Explorer,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9pht8lx4k82g,,Block,Informational,Unsanctioned browser - X Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpfcfkcnntxgqd,,Block,Informational,Unsanctioned browser - Yandex Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpfnx1qsgb40cp,,Block,Informational,Unsanctioned browser - Avast,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp8bv7f2ct4ldk,,Block,Informational,Unsanctioned browser - DC Browser - Chrome and IE kernel,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9p9nk965g4dt,,Block,Informational,Unsanctioned browser - C Lite Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9wzdncrfj55j,,Block,Informational,Unsanctioned browser - Kiosk Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpfd0r0mnzp8kp,,Block,Informational,Unsanctioned browser - CCleaner Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9npk22c65xd9,,Block,Informational,Unsanctioned browser - Flash browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9mxs3495h1jg,,Block,Informational,Unsanctioned browser - One Page Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9n5hz7tk6w6d,,Block,Informational,Unsanctioned browser - Super-Fast Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp8cbx99b2zlq1,,Block,Informational,Unsanctioned browser - Coccoc Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9nblggh1nsvj,,Block,Informational,Unsanctioned browser - Orions Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xpdff6p40p0m5q,,Block,Informational,Unsanctioned browser - Twinstar Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9wzdncrdhbdg,,Block,Informational,Unsanctioned browser - Tango Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/xp8jjhgtgr5wb6,,Block,Informational,Unsanctioned browser - UU Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9wzdncrdpsm0,,Block,Informational,Unsanctioned browser - 4Browsers - Secure Web Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9mxznpd3k6fb,,Block,Informational,Unsanctioned browser - Fast Internet Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9wzdncrfjlhn,,Block,Informational,Unsanctioned browser - Nexus Mini Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9phhm1pjlcft,,Block,Informational,Unsanctioned browser - Privacy Guard Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://apps.microsoft.com/detail/9n0n9v0vcv9v,,Block,Informational,Unsanctioned browser - Parallel Space For Browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/versotile-org/verso,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/ladybirdbrowser/ladybird,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/dioxuslabs/blitz,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/lobobrowser/LoboBrowser,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://github.com/Alex313031/Thorium-Win,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+Url,https://www.ecosia.org/browser,,Block,Informational,Unsanctioned browser,Unsanctioned browser,Unsanctioned,,,,False
+FileSha256,5B6D0826CFD123F7064EBE69AF54E3B112EC82769C6ADAD6BBB87968322856E3,,BlockAndRemediate,Informational,Unsanctioned browser: Astian - Midori,https://www.virustotal.com/gui/file/4bdf3ea203951072a9ee92f458b6e6367d279178950392eeb4a19c49eb018360,Unsanctioned,,,,False
+FileSha256,803388ED1AAD2DACA10FF75946413E67B1DF4468D32F400C647227DAF5B713C7,,BlockAndRemediate,Informational,Unsanctioned browser: Astian - Midori,midori.exe	VT (0/77)	https://www.virustotal.com/gui/file/803388ed1aad2daca10ff75946413e67b1df4468d32f400c647227daf5b713c7/detection,Unsanctioned,,,,False
+FileSha256,71605B992F22D577A23CDF3A49EF28A715F637BD095736F2F2F5B8046816C7E0,,BlockAndRemediate,Informational,Unsanctioned browser: Librewolf Installer (MS Store),Unsanctioned,Unsanctioned,,,,False
+FileSha256,D3F8397BBFDFF5E1687855312329C292FF05EB81A7D086408D30AC3B1308B763,,BlockAndRemediate,Informational,Arc Browser Installer,Unsanctioned,Unsanctioned,,,,False
+FileSha256,0e87f0fa2ce3888f051d3d1c8f120fe54b35c4eb04a9bd0f3893e4b562fccf4a,,BlockAndRemediate,Informational,Pinkio Browser,Unsanctioned,Unsanctioned,,,,False
+FileSha256,f0762b9c85027acb99ca26177ebf58bdf84d2d5e4401296c7ce95788280ece10,,BlockAndRemediate,Informational,SafeGuard Browser,Unsanctioned,Unsanctioned,,,,False
+FileSha256,d3099f54b58041ff1d36f1e8f59b78e3589cb301e4dd0530bf75fcdfc4a35e2e,,BlockAndRemediate,Informational,SafeGuard Browser,Unsanctioned,Unsanctioned,,,,False
+FileSha256,ce886c24b9e0f0d70e11acf4d5cb60019df15b62d31289f9a9b1dc22be8b13cc,,BlockAndRemediate,Informational,Dolphin Anty Browser,Dolphin Anty Browser,Unsanctioned,,,,False
+FileSha256,3bcae4d72d6d6bf49673316eac81e2282056076e55b1091738ab0e9bad7fcf2d,,BlockAndRemediate,Informational,Dolphin anty browser,Dolphin anty browser,Unsanctioned,,,,False
+FileSha256,9EF8FAE12B8291F3DE3A53C0E30B71D1A6684DC1607668F577334D67E1038C31,,BlockAndRemediate,Informational,thorium_AVX2_mini_installer.exe,thorium_AVX2_mini_installer.exe	VT (2/76)	https://www.virustotal.com/gui/file/9ef8fae12b8291f3de3a53c0e30b71d1a6684dc1607668f577334d67e1038c31/detection,Unsanctioned,,,,False
+FileSha256,887DB563772C6C02236B447A8EA790D4F7ABC40D06BD93A41FCA7F64C5A01DE0,,BlockAndRemediate,Informational,Radon Dev Browser Installer,Radon Dev Browser Installer,Unsanctioned,,,,False
+FileSha256,82DF15FE4469000839BA61F8F2105B613E077935BC4689D62CE39814F6B07B6C,,BlockAndRemediate,Informational,MS Store: Brave Installer,https://www.virustotal.com/gui/file/82df15fe4469000839ba61f8f2105b613e077935bc4689d62ce39814f6b07b6c,Unsanctioned,,,,False
+FileSha256,F9A94C1F7E62B805681EF5A2479F53262AA031BC92DACB4BFDD863138083ABEE,,BlockAndRemediate,Informational,MS Store: OperaGX Installer,https://www.virustotal.com/gui/file/f9a94c1f7e62b805681ef5a2479f53262aa031bc92dacb4bfdd863138083abee,Unsanctioned,,,,False
+FileSha256,EA5C89A7F47B9E7F5CF8A7EB4AFEE592ECB021E72C1A63AC27CA55F3002D4651,,BlockAndRemediate,Informational,MS Store: Opera Installer,https://www.virustotal.com/gui/file/ea5c89a7f47b9e7f5cf8a7eb4afee592ecb021e72c1a63ac27ca55f3002d4651,Unsanctioned,,,,False
+FileSha256,3C953AA67C302B55DE51E2848F6BA5C58443178748B4C834493D27F26C7AB8BE,,BlockAndRemediate,Informational,MS Store: PrivacyGuard Browser Installer,https://www.virustotal.com/gui/file/3c953aa67c302b55de51e2848f6ba5c58443178748b4c834493d27f26c7ab8be,Unsanctioned,,,,False
+FileSha256,F9AF137FC8C0232D7B52557F4276DED47F000566231617A0F6955BC28B7B1EBC,,BlockAndRemediate,Informational,MS Store: PrivacyGuard Browser,PrivacyGuard.exe	VT (0/77)	https://www.virustotal.com/gui/file/f9af137fc8c0232d7b52557f4276ded47f000566231617a0f6955bc28b7b1ebc/detection,Unsanctioned,,,,False
+FileSha256,4BDF3EA203951072A9EE92F458B6E6367D279178950392EEB4A19C49EB018360,,BlockAndRemediate,Informational,MS Store: OneBrowser,https://www.virustotal.com/gui/file/4bdf3ea203951072a9ee92f458b6e6367d279178950392eeb4a19c49eb018360,Unsanctioned,,,,False
+FileSha256,A5E6694675CD29FB8DDAE3180B2AF86D4D782F2D1F2C95F806BE8E3A17718704,,BlockAndRemediate,Informational,MS Store: Nexus Mini Browser Installer,Nexus Mini Browser Installer https://www.virustotal.com/gui/file/4bdf3ea203951072a9ee92f458b6e6367d279178950392eeb4a19c49eb018360,Unsanctioned,,,,False
+FileSha256,12729E0367B4E37BE8BC16CBFA55503A8B8664611C651BA1B5272D51509C9CC0,,BlockAndRemediate,Informational,MS Store: Fast Internet Browser Installer,Fast Internet Browser Installer Webbrowser.exe	VT (1/77)	https://www.virustotal.com/gui/file/12729e0367b4e37be8bc16cbfa55503a8b8664611c651ba1b5272d51509c9cc0/detection,Unsanctioned ,,,,False
+FileSha256,DCB220DB6394BB8282E0185C51EC9B2E36B35F1EA43149429FA3E272F653040D,,BlockAndRemediate,Informational,SuperFast Browser,SuperFast Browser Super-Fast Browser.exe	VT (0/75) https://www.virustotal.com/gui/file/dcb220db6394bb8282e0185c51ec9b2e36b35f1ea43149429fa3e272f653040d/detection  ,Unsanctioned,,,,False
+FileSha256,486CC71046C051F3CFA239639E926DBC0F0A4B2B917719587DC2AB40A96356C0,,BlockAndRemediate,Informational,One Page Browser,One Page Browser - DiscordForGameBar.exe	VT (0/77)	https://www.virustotal.com/gui/file/486cc71046c051f3cfa239639e926dbc0f0a4b2b917719587dc2ab40a96356c0/detection  ,Unsanctioned,,,,False
+FileSha256,0A273A31E3C37B546F548EC500C2EF2F0EA1155F3DAC4543BA0A45B07F9B72B2,,BlockAndRemediate,Informational,WebExplorerFrame,WebExplorerFrame.exe	VT (0/76)	https://www.virustotal.com/gui/file/0a273a31e3c37b546f548ec500c2ef2f0ea1155f3dac4543ba0a45b07f9b72b2/detection,Unsanctioned,,,,False
+FileSha256,1D84AE96913FC23859FAC1C35A55A305BDD5C3040AE976204C71A10CF2AAB651,,BlockAndRemediate,Informational,DCBrowser,DCBrowser.exe	VT (1/79)	https://www.virustotal.com/gui/file/1d84ae96913fc23859fac1c35a55a305bdd5c3040ae976204c71a10cf2aab651/detection,Unsanctioned,,,,False
+FileSha256,A42E82494F00E054C2DE1B065BBC8FB439D93EB69F9B97CC4868E71E48A9EAE0,,BlockAndRemediate,Informational,Unsanctioned browser: retawq,Unsanctioned browser: retawq-0.2.6c.tar.gz	VT (0/60)	https://www.virustotal.com/gui/file/a42e82494f00e054c2de1b065bbc8fb439d93eb69f9b97cc4868e71e48a9eae0/detection,Unsanctioned,,,,False
+FileSha256,E994D263F2FD2C22FEBFBE45103526E00145A7674A0FDA79C822B97C2770A9E3,,BlockAndRemediate,Informational,Unsanctioned browser: w3m text based browser,Unsanctioned browser: w3m-0.5.3.tar.gz	VT (0/79)	https://www.virustotal.com/gui/file/e994d263f2fd2c22febfbe45103526e00145a7674a0fda79c822b97c2770a9e3/detection,Unsanctioned,,,,False
+FileSha256,2433CB70CD781FF9D1CD9247F05F723988E8BD04DAF16C75C5D4015D6E10F447,,BlockAndRemediate,Informational,Unsanctioned browser: browsh,Unsanctioned browser: browsh_1.8.0_windows_amd64.exe	VT (2/74)	https://www.virustotal.com/gui/file/2433cb70cd781ff9d1cd9247f05f723988e8bd04daf16c75c5d4015d6e10f447/detection,Unsanctioned,,,,False
+FileSha256,7C6B94EFEE914A20A2C888888CCC63C117390BAA380318C22863584E7EF4042D,,BlockAndRemediate,Informational,Unsanctioned browser: WebbIE,Unsanctioned browser: WebbIE4.msi	VT (0/75)	https://www.virustotal.com/gui/file/7c6b94efee914a20a2c888888ccc63c117390baa380318c22863584e7ef4042d/detection,Unsanctioned,,,,False

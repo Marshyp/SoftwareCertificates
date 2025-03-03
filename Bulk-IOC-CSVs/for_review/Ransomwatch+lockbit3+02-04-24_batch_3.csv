@@ -1,0 +1,971 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,lonseal.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/lonseal.com
+Tool written by jkerai1",,,,,False
+DomainName,econsult.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/econsult.com
+Tool written by jkerai1",,,,,False
+DomainName,leecorpinc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/leecorpinc.com
+Tool written by jkerai1",,,,,False
+DomainName,qbcqatar.com.qa,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/qbcqatar.com.qa
+Tool written by jkerai1",,,,,False
+DomainName,jhillburn.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/jhillburn.com
+Tool written by jkerai1",,,,,False
+DomainName,sfjazz.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sfjazz.org
+Tool written by jkerai1",,,,,False
+DomainName,smart-swgcrc.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/smart-swgcrc.org
+Tool written by jkerai1",,,,,False
+DomainName,kriegerklatt.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kriegerklatt.com
+Tool written by jkerai1",,,,,False
+DomainName,mybps.us,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mybps.us
+Tool written by jkerai1",,,,,False
+DomainName,sgl.co.th,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sgl.co.th
+Tool written by jkerai1",,,,,False
+DomainName,umchealth.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/umchealth.com
+Tool written by jkerai1",,,,,False
+DomainName,mitchcointernational.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mitchcointernational.com
+Tool written by jkerai1",,,,,False
+DomainName,tedpella.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tedpella.com
+Tool written by jkerai1",,,,,False
+DomainName,macuspana.gob.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/macuspana.gob.mx
+Tool written by jkerai1",,,,,False
+DomainName,phitoformulas.com.br,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/phitoformulas.com.br
+Tool written by jkerai1",,,,,False
+DomainName,s3groupltd.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/s3groupltd.com
+Tool written by jkerai1",,,,,False
+DomainName,cloudtopoffice.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cloudtopoffice.com
+Tool written by jkerai1",,,,,False
+DomainName,cochraninc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cochraninc.com
+Tool written by jkerai1",,,,,False
+DomainName,equip-reuse.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/equip-reuse.com
+Tool written by jkerai1",,,,,False
+DomainName,hallbergengineering.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hallbergengineering.com
+Tool written by jkerai1",,,,,False
+DomainName,apdparcel.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/apdparcel.com.au
+Tool written by jkerai1",,,,,False
+DomainName,stockwellharris.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/stockwellharris.com
+Tool written by jkerai1",,,,,False
+DomainName,mcnamaradrass.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mcnamaradrass.com
+Tool written by jkerai1",,,,,False
+DomainName,decrolyamericano.edu.gt,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/decrolyamericano.edu.gt
+Tool written by jkerai1",,,,,False
+DomainName,iledefrance-nature.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/iledefrance-nature.fr
+Tool written by jkerai1",,,,,False
+DomainName,newsupri.com.br,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/newsupri.com.br
+Tool written by jkerai1",,,,,False
+DomainName,qintess.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/qintess.com
+Tool written by jkerai1",,,,,False
+DomainName,senacrs.com.br,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/senacrs.com.br
+Tool written by jkerai1",,,,,False
+DomainName,grupomartex.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/grupomartex.com
+Tool written by jkerai1",,,,,False
+DomainName,jhilburn.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/jhilburn.com
+Tool written by jkerai1",,,,,False
+DomainName,purever.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/purever.com
+Tool written by jkerai1",,,,,False
+DomainName,kendrion.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kendrion.com
+Tool written by jkerai1",,,,,False
+DomainName,esprigas.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/esprigas.com
+Tool written by jkerai1",,,,,False
+DomainName,carolfoxassociates.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/carolfoxassociates.com
+Tool written by jkerai1",,,,,False
+DomainName,cloverbrook.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cloverbrook.com
+Tool written by jkerai1",,,,,False
+DomainName,cm.gov.nc.tr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cm.gov.nc.tr
+Tool written by jkerai1",,,,,False
+DomainName,distribuidoradavidsa.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/distribuidoradavidsa.com
+Tool written by jkerai1",,,,,False
+DomainName,fimadev.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fimadev.fr
+Tool written by jkerai1",,,,,False
+DomainName,immoselekt.be,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/immoselekt.be
+Tool written by jkerai1",,,,,False
+DomainName,younghomes.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/younghomes.com
+Tool written by jkerai1",,,,,False
+DomainName,casa-andina.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/casa-andina.com
+Tool written by jkerai1",,,,,False
+DomainName,greenside-sch.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/greenside-sch.org
+Tool written by jkerai1",,,,,False
+DomainName,mergerecords.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mergerecords.com
+Tool written by jkerai1",,,,,False
+DomainName,renaultinantwerpen.be,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/renaultinantwerpen.be
+Tool written by jkerai1",,,,,False
+DomainName,ukseung.co.kr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ukseung.co.kr
+Tool written by jkerai1",,,,,False
+DomainName,wkclawfirm.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/wkclawfirm.com
+Tool written by jkerai1",,,,,False
+DomainName,beniculturali.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/beniculturali.it
+Tool written by jkerai1",,,,,False
+DomainName,jamaicainn.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/jamaicainn.com
+Tool written by jkerai1",,,,,False
+DomainName,sherwin-electric.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sherwin-electric.com
+Tool written by jkerai1",,,,,False
+DomainName,uprepschool.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/uprepschool.org
+Tool written by jkerai1",,,,,False
+DomainName,lhvisionclinic.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/lhvisionclinic.com
+Tool written by jkerai1",,,,,False
+DomainName,texline-global.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/texline-global.com
+Tool written by jkerai1",,,,,False
+DomainName,lamaisonmercier.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/lamaisonmercier.com
+Tool written by jkerai1",,,,,False
+DomainName,acolea.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/acolea.org
+Tool written by jkerai1",,,,,False
+DomainName,alpepipesystems.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/alpepipesystems.com
+Tool written by jkerai1",,,,,False
+DomainName,annals.edu.sg,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/annals.edu.sg
+Tool written by jkerai1",,,,,False
+DomainName,auto-pieces.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/auto-pieces.fr
+Tool written by jkerai1",,,,,False
+DomainName,dollinger-pierre.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dollinger-pierre.fr
+Tool written by jkerai1",,,,,False
+DomainName,emec.com.eg,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/emec.com.eg
+Tool written by jkerai1",,,,,False
+DomainName,feuille-erable.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/feuille-erable.fr
+Tool written by jkerai1",,,,,False
+DomainName,grebe-korbach.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/grebe-korbach.de
+Tool written by jkerai1",,,,,False
+DomainName,greensboro.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/greensboro.edu
+Tool written by jkerai1",,,,,False
+DomainName,guillerm-habitat.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/guillerm-habitat.fr
+Tool written by jkerai1",,,,,False
+DomainName,inouemfg.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/inouemfg.com
+Tool written by jkerai1",,,,,False
+DomainName,locaparc.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/locaparc.fr
+Tool written by jkerai1",,,,,False
+DomainName,losh.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/losh.com
+Tool written by jkerai1",,,,,False
+DomainName,mariocoelho.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mariocoelho.com
+Tool written by jkerai1",,,,,False
+DomainName,nieul-sur-mer.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nieul-sur-mer.fr
+Tool written by jkerai1",,,,,False
+DomainName,optoflux.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/optoflux.com
+Tool written by jkerai1",,,,,False
+DomainName,otltd.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/otltd.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,potenciamaquinaria.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/potenciamaquinaria.com
+Tool written by jkerai1",,,,,False
+DomainName,tavlit.co.il,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tavlit.co.il
+Tool written by jkerai1",,,,,False
+DomainName,rydershealth.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/rydershealth.com
+Tool written by jkerai1",,,,,False
+DomainName,toua.net,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/toua.net
+Tool written by jkerai1",,,,,False
+DomainName,zep.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/zep.it
+Tool written by jkerai1",,,,,False
+DomainName,skystar.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/skystar.it
+Tool written by jkerai1",,,,,False
+DomainName,biso.at,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/biso.at
+Tool written by jkerai1",,,,,False
+DomainName,millwgs.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/millwgs.com
+Tool written by jkerai1",,,,,False
+DomainName,abzarsara.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/abzarsara.com
+Tool written by jkerai1",,,,,False
+DomainName,deschamps.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/deschamps.fr
+Tool written by jkerai1",,,,,False
+DomainName,guyer.com.uy,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/guyer.com.uy
+Tool written by jkerai1",,,,,False
+DomainName,mayair.com.my,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mayair.com.my
+Tool written by jkerai1",,,,,False
+DomainName,chevalerias.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/chevalerias.com
+Tool written by jkerai1",,,,,False
+DomainName,aquinas.qld.edu.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aquinas.qld.edu.au
+Tool written by jkerai1",,,,,False
+DomainName,hamilton-techservices.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hamilton-techservices.com
+Tool written by jkerai1",,,,,False
+DomainName,konkconsulting.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/konkconsulting.com
+Tool written by jkerai1",,,,,False
+DomainName,vodatech.com.tr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/vodatech.com.tr
+Tool written by jkerai1",,,,,False
+DomainName,cciamp.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cciamp.com
+Tool written by jkerai1",,,,,False
+DomainName,cc-gorgesardeche.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cc-gorgesardeche.fr
+Tool written by jkerai1",,,,,False
+DomainName,attorneydanwinder.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/attorneydanwinder.com
+Tool written by jkerai1",,,,,False
+DomainName,sterncoengineers.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sterncoengineers.com
+Tool written by jkerai1",,,,,False
+DomainName,designlink.us,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/designlink.us
+Tool written by jkerai1",,,,,False
+DomainName,eljayoil.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/eljayoil.com
+Tool written by jkerai1",,,,,False
+DomainName,gh2.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gh2.com
+Tool written by jkerai1",,,,,False
+DomainName,neolife.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/neolife.com
+Tool written by jkerai1",,,,,False
+DomainName,nerolac.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nerolac.com
+Tool written by jkerai1",,,,,False
+DomainName,seasonsdarlingharbour.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/seasonsdarlingharbour.com.au
+Tool written by jkerai1",,,,,False
+DomainName,ramlowstein.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ramlowstein.com
+Tool written by jkerai1",,,,,False
+DomainName,glprop.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/glprop.com
+Tool written by jkerai1",,,,,False
+DomainName,gosslaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gosslaw.com
+Tool written by jkerai1",,,,,False
+DomainName,marianoshoes.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/marianoshoes.com
+Tool written by jkerai1",,,,,False
+DomainName,cdwg.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cdwg.com
+Tool written by jkerai1",,,,,False
+DomainName,godbeylaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/godbeylaw.com
+Tool written by jkerai1",,,,,False
+DomainName,spmblaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/spmblaw.com
+Tool written by jkerai1",,,,,False
+DomainName,concrejato.com.br,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/concrejato.com.br
+Tool written by jkerai1",,,,,False
+DomainName,gormanusa.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gormanusa.com
+Tool written by jkerai1",,,,,False
+DomainName,meroso.be,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/meroso.be
+Tool written by jkerai1",,,,,False
+DomainName,nobleweb.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nobleweb.com
+Tool written by jkerai1",,,,,False
+DomainName,onyx-fire.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/onyx-fire.com
+Tool written by jkerai1",,,,,False
+DomainName,protosign.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/protosign.it
+Tool written by jkerai1",,,,,False
+DomainName,qsoftnet.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/qsoftnet.com
+Tool written by jkerai1",,,,,False
+DomainName,ragasa.com.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ragasa.com.mx
+Tool written by jkerai1",,,,,False
+DomainName,hanwha.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hanwha.com
+Tool written by jkerai1",,,,,False
+DomainName,monaco-technologies.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/monaco-technologies.com
+Tool written by jkerai1",,,,,False
+DomainName,sd69.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sd69.org
+Tool written by jkerai1",,,,,False
+DomainName,grant.mn.us,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/grant.mn.us
+Tool written by jkerai1",,,,,False
+DomainName,cfsigroup.ca,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cfsigroup.ca
+Tool written by jkerai1",,,,,False
+DomainName,deeroaks.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/deeroaks.com
+Tool written by jkerai1",,,,,False
+DomainName,sinloc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sinloc.com
+Tool written by jkerai1",,,,,False
+DomainName,clearcreek.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/clearcreek.org
+Tool written by jkerai1",,,,,False
+DomainName,carthagehospital.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/carthagehospital.com
+Tool written by jkerai1",,,,,False
+DomainName,hillsboroughschools.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hillsboroughschools.org
+Tool written by jkerai1",,,,,False
+DomainName,pelicanwoodcliff.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pelicanwoodcliff.com
+Tool written by jkerai1",,,,,False
+DomainName,aeroportlleida.cat,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aeroportlleida.cat
+Tool written by jkerai1",,,,,False
+DomainName,antioch.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/antioch.edu
+Tool written by jkerai1",,,,,False
+DomainName,beamconstruction.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/beamconstruction.com
+Tool written by jkerai1",,,,,False
+DomainName,commercialfluidpower.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/commercialfluidpower.com
+Tool written by jkerai1",,,,,False
+DomainName,dasholding.ae,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dasholding.ae
+Tool written by jkerai1",,,,,False
+DomainName,energyinsight.co.za,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/energyinsight.co.za
+Tool written by jkerai1",,,,,False
+DomainName,faithfamilyacademy.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/faithfamilyacademy.org
+Tool written by jkerai1",,,,,False
+DomainName,zapweb.co.il,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/zapweb.co.il
+Tool written by jkerai1",,,,,False
+DomainName,gsaenz.com.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gsaenz.com.mx
+Tool written by jkerai1",,,,,False
+DomainName,ipsenlogistics.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ipsenlogistics.com
+Tool written by jkerai1",,,,,False
+DomainName,mehmetceylanyapi.com.tr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mehmetceylanyapi.com.tr
+Tool written by jkerai1",,,,,False
+DomainName,michalovich.co.il,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/michalovich.co.il
+Tool written by jkerai1",,,,,False
+DomainName,milbermakris.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/milbermakris.com
+Tool written by jkerai1",,,,,False
+DomainName,motsaot.co.il,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/motsaot.co.il
+Tool written by jkerai1",,,,,False
+DomainName,neolaser.es,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/neolaser.es
+Tool written by jkerai1",,,,,False
+DomainName,perfectlaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/perfectlaw.com
+Tool written by jkerai1",,,,,False
+DomainName,piramidal.com.br,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/piramidal.com.br
+Tool written by jkerai1",,,,,False
+DomainName,scottpartners.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/scottpartners.com
+Tool written by jkerai1",,,,,False
+DomainName,syntech.com.sg,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/syntech.com.sg
+Tool written by jkerai1",,,,,False
+DomainName,tlip2.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tlip2.com
+Tool written by jkerai1",,,,,False
+DomainName,tuvsud.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tuvsud.com
+Tool written by jkerai1",,,,,False
+DomainName,fersan.com.tr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fersan.com.tr
+Tool written by jkerai1",,,,,False
+DomainName,payrollselectservices.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/payrollselectservices.com
+Tool written by jkerai1",,,,,False
+DomainName,hwwealth.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hwwealth.com
+Tool written by jkerai1",,,,,False
+DomainName,bauscherhepp.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bauscherhepp.com
+Tool written by jkerai1",,,,,False
+DomainName,compass-inc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/compass-inc.com
+Tool written by jkerai1",,,,,False
+DomainName,constantinecannon.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/constantinecannon.com
+Tool written by jkerai1",,,,,False
+DomainName,messner.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/messner.com
+Tool written by jkerai1",,,,,False
+DomainName,pelmorex.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pelmorex.com
+Tool written by jkerai1",,,,,False
+DomainName,marshallindtech.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/marshallindtech.com
+Tool written by jkerai1",,,,,False
+DomainName,precisionpractice.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/precisionpractice.com
+Tool written by jkerai1",,,,,False
+DomainName,altmanplants.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/altmanplants.com
+Tool written by jkerai1",,,,,False
+DomainName,ezpaybuildings.net,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ezpaybuildings.net
+Tool written by jkerai1",,,,,False
+DomainName,fdf.org.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fdf.org.uk
+Tool written by jkerai1",,,,,False
+DomainName,rexgroup.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/rexgroup.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,solveindustrial.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/solveindustrial.com
+Tool written by jkerai1",,,,,False
+DomainName,palaciodosleiloes.com.br,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/palaciodosleiloes.com.br
+Tool written by jkerai1",,,,,False
+DomainName,ckgroup.com.tw,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ckgroup.com.tw
+Tool written by jkerai1",,,,,False
+DomainName,erga.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/erga.com
+Tool written by jkerai1",,,,,False
+DomainName,fcps1.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fcps1.org
+Tool written by jkerai1",,,,,False
+DomainName,laspesainfamiglia.coop,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/laspesainfamiglia.coop
+Tool written by jkerai1",,,,,False
+DomainName,raeburns.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/raeburns.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,tayloredservices.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tayloredservices.com
+Tool written by jkerai1",,,,,False
+DomainName,thermae.nl,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/thermae.nl
+Tool written by jkerai1",,,,,False
+DomainName,aicsacorp.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aicsacorp.com
+Tool written by jkerai1",,,,,False
+DomainName,suncoast-chc.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/suncoast-chc.org
+Tool written by jkerai1",,,,,False
+DomainName,sirva.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sirva.com
+Tool written by jkerai1",,,,,False
+DomainName,bm.co.th,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bm.co.th
+Tool written by jkerai1",,,,,False
+DomainName,cote-expert-equipements.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cote-expert-equipements.com
+Tool written by jkerai1",,,,,False
+DomainName,eemotors.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/eemotors.com
+Tool written by jkerai1",,,,,False
+DomainName,litung.com.tw,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/litung.com.tw
+Tool written by jkerai1",,,,,False
+DomainName,picosoft.biz,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/picosoft.biz
+Tool written by jkerai1",,,,,False
+DomainName,sinedieadvisor.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sinedieadvisor.com
+Tool written by jkerai1",,,,,False
+DomainName,tatatelebusiness.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tatatelebusiness.com
+Tool written by jkerai1",,,,,False
+DomainName,sogebank.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sogebank.com
+Tool written by jkerai1",,,,,False
+DomainName,urc-automation.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/urc-automation.com
+Tool written by jkerai1",,,,,False
+DomainName,securicon.co.za,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/securicon.co.za
+Tool written by jkerai1",,,,,False
+DomainName,enerjet.com.pe,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/enerjet.com.pe
+Tool written by jkerai1",,,,,False
+DomainName,dothanhauto.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dothanhauto.com
+Tool written by jkerai1",,,,,False
+DomainName,vsmpo-tirus.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/vsmpo-tirus.com
+Tool written by jkerai1",,,,,False
+DomainName,atlantatech.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/atlantatech.edu
+Tool written by jkerai1",,,,,False
+DomainName,foremostgroups.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/foremostgroups.com
+Tool written by jkerai1",,,,,False
+DomainName,sdproducts.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sdproducts.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,cpstate.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cpstate.org
+Tool written by jkerai1",,,,,False
+DomainName,kasperekusaoptical.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kasperekusaoptical.com
+Tool written by jkerai1",,,,,False
+DomainName,fdf.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fdf.org
+Tool written by jkerai1",,,,,False
+DomainName,smart-union.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/smart-union.org
+Tool written by jkerai1",,,,,False
+DomainName,frs-fnrs.be,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/frs-fnrs.be
+Tool written by jkerai1",,,,,False
+DomainName,nirolaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nirolaw.com
+Tool written by jkerai1",,,,,False
+DomainName,salaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/salaw.com
+Tool written by jkerai1",,,,,False
+DomainName,thecsi.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/thecsi.com
+Tool written by jkerai1",,,,,False
+DomainName,degrootgroep.nl,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/degrootgroep.nl
+Tool written by jkerai1",,,,,False
+DomainName,uaes.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/uaes.com
+Tool written by jkerai1",,,,,False
+DomainName,chs.ca,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/chs.ca
+Tool written by jkerai1",,,,,False
+DomainName,harlingentx.gov,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/harlingentx.gov
+Tool written by jkerai1",,,,,False
+DomainName,mamu.be,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mamu.be
+Tool written by jkerai1",,,,,False
+DomainName,grupocobra.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/grupocobra.com
+Tool written by jkerai1",,,,,False
+DomainName,hgmonline.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hgmonline.com
+Tool written by jkerai1",,,,,False
+DomainName,ambic.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ambic.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,camico.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/camico.com
+Tool written by jkerai1",,,,,False
+DomainName,excon.cl,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/excon.cl
+Tool written by jkerai1",,,,,False
+DomainName,linkmicrotek.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/linkmicrotek.com
+Tool written by jkerai1",,,,,False
+DomainName,mgbwlaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mgbwlaw.com
+Tool written by jkerai1",,,,,False
+DomainName,fern-plastics.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fern-plastics.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,martinsonservices.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/martinsonservices.com
+Tool written by jkerai1",,,,,False
+DomainName,doverchem.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/doverchem.com
+Tool written by jkerai1",,,,,False
+DomainName,caminorealcs.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/caminorealcs.org
+Tool written by jkerai1",,,,,False
+DomainName,tilden-coil.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tilden-coil.com
+Tool written by jkerai1",,,,,False
+DomainName,boeing.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/boeing.com
+Tool written by jkerai1",,,,,False
+DomainName,mottamaholdings.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mottamaholdings.com
+Tool written by jkerai1",,,,,False
+DomainName,topcharoen.co.th,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/topcharoen.co.th
+Tool written by jkerai1",,,,,False
+DomainName,ecabusinessenergy.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ecabusinessenergy.com
+Tool written by jkerai1",,,,,False
+DomainName,frontlineequipment.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/frontlineequipment.com.au
+Tool written by jkerai1",,,,,False
+DomainName,groupemontclair.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/groupemontclair.com
+Tool written by jkerai1",,,,,False
+DomainName,aces-int.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aces-int.com
+Tool written by jkerai1",,,,,False
+DomainName,aiq.com.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aiq.com.mx
+Tool written by jkerai1",,,,,False
+DomainName,smartuigroup.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/smartuigroup.com.au
+Tool written by jkerai1",,,,,False
+DomainName,ageroute.sn,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ageroute.sn
+Tool written by jkerai1",,,,,False
+DomainName,bildco.ae,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bildco.ae
+Tool written by jkerai1",,,,,False
+DomainName,riohondo.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/riohondo.edu
+Tool written by jkerai1",,,,,False
+DomainName,utec.com.sa,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/utec.com.sa
+Tool written by jkerai1",,,,,False
+DomainName,summithealth.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/summithealth.com
+Tool written by jkerai1",,,,,False
+DomainName,steelofcarolina.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/steelofcarolina.com
+Tool written by jkerai1",,,,,False
+DomainName,vitaresearch.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/vitaresearch.com
+Tool written by jkerai1",,,,,False
+DomainName,degregoris.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/degregoris.com
+Tool written by jkerai1",,,,,False
+DomainName,imprex.es,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/imprex.es
+Tool written by jkerai1",,,,,False
+DomainName,kitprofs.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kitprofs.com
+Tool written by jkerai1",,,,,False
+DomainName,raumberg-gumpenstein.at,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/raumberg-gumpenstein.at
+Tool written by jkerai1",,,,,False
+DomainName,psmicorp.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/psmicorp.com
+Tool written by jkerai1",,,,,False
+DomainName,lafase.cl,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/lafase.cl
+Tool written by jkerai1",,,,,False
+DomainName,bindagroup.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bindagroup.com
+Tool written by jkerai1",,,,,False
+DomainName,shimano.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/shimano.com
+Tool written by jkerai1",,,,,False
+DomainName,microtrain.net,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/microtrain.net
+Tool written by jkerai1",,,,,False
+DomainName,jewell.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/jewell.edu
+Tool written by jkerai1",,,,,False
+DomainName,abhmfg.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/abhmfg.com
+Tool written by jkerai1",,,,,False
+DomainName,tasl.co.th,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tasl.co.th
+Tool written by jkerai1",,,,,False
+DomainName,translink.se,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/translink.se
+Tool written by jkerai1",,,,,False
+DomainName,unimed.coop.br,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/unimed.coop.br
+Tool written by jkerai1",,,,,False
+DomainName,infosysbpm.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/infosysbpm.com
+Tool written by jkerai1",,,,,False
+DomainName,tks.co.th,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tks.co.th
+Tool written by jkerai1",,,,,False
+DomainName,aseankorea.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aseankorea.org
+Tool written by jkerai1",,,,,False
+DomainName,benya.capital,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/benya.capital
+Tool written by jkerai1",,,,,False
+DomainName,bresselouhannaiseintercom.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bresselouhannaiseintercom.fr
+Tool written by jkerai1",,,,,False
+DomainName,brlogistics.net,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/brlogistics.net
+Tool written by jkerai1",,,,,False
+DomainName,egco.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/egco.com
+Tool written by jkerai1",,,,,False
+DomainName,emiliacentrale.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/emiliacentrale.it
+Tool written by jkerai1",,,,,False
+DomainName,global-value-web.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/global-value-web.com
+Tool written by jkerai1",,,,,False
+DomainName,btprms.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/btprms.com
+Tool written by jkerai1",,,,,False
+DomainName,mat-antriebstechnik.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mat-antriebstechnik.de
+Tool written by jkerai1",,,,,False
+DomainName,nckb.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nckb.com
+Tool written by jkerai1",,,,,False
+DomainName,nfcc.gov.my,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nfcc.gov.my
+Tool written by jkerai1",,,,,False
+DomainName,ospedalecoq.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ospedalecoq.it
+Tool written by jkerai1",,,,,False
+DomainName,sansasecurity.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sansasecurity.com
+Tool written by jkerai1",,,,,False
+DomainName,springeroil.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/springeroil.com
+Tool written by jkerai1",,,,,False
+DomainName,studio483.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/studio483.com
+Tool written by jkerai1",,,,,False
+DomainName,szutest.cz,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/szutest.cz
+Tool written by jkerai1",,,,,False
+DomainName,concretevalue.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/concretevalue.com
+Tool written by jkerai1",,,,,False
+DomainName,howlandlaw.net,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/howlandlaw.net
+Tool written by jkerai1",,,,,False
+DomainName,eyephy.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/eyephy.com
+Tool written by jkerai1",,,,,False
+DomainName,kbrlaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kbrlaw.com
+Tool written by jkerai1",,,,,False
+DomainName,good-lawyer.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/good-lawyer.com
+Tool written by jkerai1",,,,,False
+DomainName,ccdrc.pt,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ccdrc.pt
+Tool written by jkerai1",,,,,False
+DomainName,allenovery.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/allenovery.com
+Tool written by jkerai1",,,,,False
+DomainName,gitiusa.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gitiusa.com
+Tool written by jkerai1",,,,,False
+DomainName,foley.k12.mn.us,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/foley.k12.mn.us
+Tool written by jkerai1",,,,,False
+DomainName,amberhillgroup.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/amberhillgroup.com
+Tool written by jkerai1",,,,,False
+DomainName,fawry.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fawry.com
+Tool written by jkerai1",,,,,False
+DomainName,ggarabia.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ggarabia.com
+Tool written by jkerai1",,,,,False
+DomainName,gotocfr.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gotocfr.com
+Tool written by jkerai1",,,,,False
+DomainName,aei.cc,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aei.cc
+Tool written by jkerai1",,,,,False
+DomainName,morningstarco.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/morningstarco.com
+Tool written by jkerai1",,,,,False
+DomainName,floortex.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/floortex.com
+Tool written by jkerai1",,,,,False
+DomainName,estes-express.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/estes-express.com
+Tool written by jkerai1",,,,,False
+DomainName,aten.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aten.com
+Tool written by jkerai1",,,,,False
+DomainName,creatz3d.sg,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/creatz3d.sg
+Tool written by jkerai1",,,,,False
+DomainName,loiret.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/loiret.fr
+Tool written by jkerai1",,,,,False
+DomainName,quifatex.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/quifatex.com
+Tool written by jkerai1",,,,,False
+DomainName,vital.co.za,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/vital.co.za
+Tool written by jkerai1",,,,,False
+DomainName,heinrichseegers.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/heinrichseegers.de
+Tool written by jkerai1",,,,,False
+DomainName,roth-werkzeugbau.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/roth-werkzeugbau.de
+Tool written by jkerai1",,,,,False
+DomainName,hotel-ampere-paris.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hotel-ampere-paris.com
+Tool written by jkerai1",,,,,False
+DomainName,plati.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/plati.it
+Tool written by jkerai1",,,,,False
+DomainName,carsonteam.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/carsonteam.com
+Tool written by jkerai1",,,,,False
+DomainName,cityofclarksville.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cityofclarksville.com
+Tool written by jkerai1",,,,,False
+DomainName,digitaldruck-esser.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/digitaldruck-esser.de
+Tool written by jkerai1",,,,,False
+DomainName,hotelemc2.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hotelemc2.com
+Tool written by jkerai1",,,,,False
+DomainName,modafabrics.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/modafabrics.com
+Tool written by jkerai1",,,,,False
+DomainName,thewalkerschool.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/thewalkerschool.org
+Tool written by jkerai1",,,,,False
+DomainName,wombleco.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/wombleco.com
+Tool written by jkerai1",,,,,False
+DomainName,aegean.gr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aegean.gr
+Tool written by jkerai1",,,,,False
+DomainName,msim.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/msim.de
+Tool written by jkerai1",,,,,False
+DomainName,muellersystems.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/muellersystems.com
+Tool written by jkerai1",,,,,False
+DomainName,tarltonandson.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tarltonandson.com
+Tool written by jkerai1",,,,,False
+DomainName,kwhfreeze.fi,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kwhfreeze.fi
+Tool written by jkerai1",,,,,False
+DomainName,adyne.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/adyne.com
+Tool written by jkerai1",,,,,False
+DomainName,chicagotrading.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/chicagotrading.com
+Tool written by jkerai1",,,,,False
+DomainName,owensgroup.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/owensgroup.uk
+Tool written by jkerai1",,,,,False
+DomainName,goodhopeholdings.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/goodhopeholdings.com
+Tool written by jkerai1",,,,,False
+DomainName,communitydentalme.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/communitydentalme.org
+Tool written by jkerai1",,,,,False
+DomainName,planethomelending.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/planethomelending.com
+Tool written by jkerai1",,,,,False
+DomainName,hsksgreenhalgh.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hsksgreenhalgh.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,krblaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/krblaw.com
+Tool written by jkerai1",,,,,False
+DomainName,villanuevadelaserena.es,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/villanuevadelaserena.es
+Tool written by jkerai1",,,,,False
+DomainName,ajcfood.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ajcfood.com
+Tool written by jkerai1",,,,,False
+DomainName,generalrefrig.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/generalrefrig.com
+Tool written by jkerai1",,,,,False
+DomainName,brownintegratedlogistics.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/brownintegratedlogistics.com
+Tool written by jkerai1",,,,,False
+DomainName,onyourmark.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/onyourmark.org
+Tool written by jkerai1",,,,,False
+DomainName,nybravestfcu.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nybravestfcu.org
+Tool written by jkerai1",,,,,False
+DomainName,helifrusa.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/helifrusa.com
+Tool written by jkerai1",,,,,False
+DomainName,martinique.no,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/martinique.no
+Tool written by jkerai1",,,,,False
+DomainName,phihydraulics.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/phihydraulics.com
+Tool written by jkerai1",,,,,False
+DomainName,qautomotive.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/qautomotive.com.au
+Tool written by jkerai1",,,,,False
+DomainName,bnpmedia.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bnpmedia.com
+Tool written by jkerai1",,,,,False
+DomainName,floydskerenlaw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/floydskerenlaw.com
+Tool written by jkerai1",,,,,False
+DomainName,art-eco.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/art-eco.it
+Tool written by jkerai1",,,,,False
+DomainName,merz-elektro.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/merz-elektro.de
+Tool written by jkerai1",,,,,False
+DomainName,therobisongroup.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/therobisongroup.com
+Tool written by jkerai1",,,,,False
+DomainName,officinaverdedesign.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/officinaverdedesign.it
+Tool written by jkerai1",,,,,False
+DomainName,unidesign-jewel.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/unidesign-jewel.com
+Tool written by jkerai1",,,,,False
+DomainName,des-ae.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/des-ae.com
+Tool written by jkerai1",,,,,False
+DomainName,nrtw.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nrtw.org
+Tool written by jkerai1",,,,,False
+DomainName,preidlhof.it,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/preidlhof.it
+Tool written by jkerai1",,,,,False
+DomainName,ribolia.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ribolia.com
+Tool written by jkerai1",,,,,False
+DomainName,kenso.com.my,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kenso.com.my
+Tool written by jkerai1",,,,,False
+DomainName,stsaviationgroup.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/stsaviationgroup.com
+Tool written by jkerai1",,,,,False
+DomainName,dawsongroup.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dawsongroup.uk
+Tool written by jkerai1",,,,,False
+DomainName,hi-schoolpharmacy.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hi-schoolpharmacy.com
+Tool written by jkerai1",,,,,False
+DomainName,nal.res.in,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/nal.res.in
+Tool written by jkerai1",,,,,False
+DomainName,tcw.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tcw.com
+Tool written by jkerai1",,,,,False
+DomainName,masterk.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/masterk.com
+Tool written by jkerai1",,,,,False
+DomainName,ontariopork.on.ca,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ontariopork.on.ca
+Tool written by jkerai1",,,,,False
+DomainName,pcli.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pcli.com
+Tool written by jkerai1",,,,,False
+DomainName,hnncsb.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hnncsb.org
+Tool written by jkerai1",,,,,False
+DomainName,elsewedyelectric.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/elsewedyelectric.com
+Tool written by jkerai1",,,,,False
+DomainName,bboed.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bboed.org
+Tool written by jkerai1",,,,,False
+DomainName,mirle.com.tw,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mirle.com.tw
+Tool written by jkerai1",,,,,False
+DomainName,ychlccsc.edu.hk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ychlccsc.edu.hk
+Tool written by jkerai1",,,,,False
+DomainName,restargp.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/restargp.com
+Tool written by jkerai1",,,,,False
+DomainName,mapc.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mapc.org
+Tool written by jkerai1",,,,,False
+DomainName,aldoshoes.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aldoshoes.com
+Tool written by jkerai1",,,,,False
+DomainName,laprensani.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/laprensani.com
+Tool written by jkerai1",,,,,False
+DomainName,fpz.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fpz.com
+Tool written by jkerai1",,,,,False
+DomainName,labelians.fr,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/labelians.fr
+Tool written by jkerai1",,,,,False
+DomainName,polyclinique-cotentin.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/polyclinique-cotentin.com
+Tool written by jkerai1",,,,,False
+DomainName,hopto.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hopto.com
+Tool written by jkerai1",,,,,False
+DomainName,usherbrooke.ca,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/usherbrooke.ca
+Tool written by jkerai1",,,,,False
+DomainName,bpce.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bpce.com
+Tool written by jkerai1",,,,,False
+DomainName,signiflow.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/signiflow.com
+Tool written by jkerai1",,,,,False
+DomainName,citizenswv.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/citizenswv.com
+Tool written by jkerai1",,,,,False
+DomainName,directradiology.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/directradiology.com
+Tool written by jkerai1",,,,,False
+DomainName,bluewaterstt.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bluewaterstt.com
+Tool written by jkerai1",,,,,False
+DomainName,omegapainclinic.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/omegapainclinic.com
+Tool written by jkerai1",,,,,False
+DomainName,denave.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/denave.com
+Tool written by jkerai1",,,,,False
+DomainName,midlandindustries.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/midlandindustries.com
+Tool written by jkerai1",,,,,False
+DomainName,aw-lawyers.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/aw-lawyers.com
+Tool written by jkerai1",,,,,False
+DomainName,livanova.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/livanova.com
+Tool written by jkerai1",,,,,False
+DomainName,policia.gob.pe,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/policia.gob.pe
+Tool written by jkerai1",,,,,False
+DomainName,pronatindustries.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pronatindustries.com
+Tool written by jkerai1",,,,,False
+DomainName,zailaboratory.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/zailaboratory.com
+Tool written by jkerai1",,,,,False
+DomainName,igt.nl,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/igt.nl
+Tool written by jkerai1",,,,,False
+DomainName,ipp-sa.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ipp-sa.com
+Tool written by jkerai1",,,,,False
+DomainName,r-ab.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/r-ab.de
+Tool written by jkerai1",,,,,False
+DomainName,phillipsglobal.us,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/phillipsglobal.us
+Tool written by jkerai1",,,,,False
+DomainName,greenbriersportingclub.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/greenbriersportingclub.com
+Tool written by jkerai1",,,,,False
+DomainName,airtechthelong.com.vn,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/airtechthelong.com.vn
+Tool written by jkerai1",,,,,False
+DomainName,kitahirosima.jp,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/kitahirosima.jp
+Tool written by jkerai1",,,,,False
+DomainName,petrotec.com.qa,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/petrotec.com.qa
+Tool written by jkerai1",,,,,False
+DomainName,tradewindscorp-insbrok.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tradewindscorp-insbrok.com
+Tool written by jkerai1",,,,,False
+DomainName,dena.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dena.de
+Tool written by jkerai1",,,,,False
+DomainName,altezze.com.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/altezze.com.mx
+Tool written by jkerai1",,,,,False
+DomainName,ccadm.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ccadm.org
+Tool written by jkerai1",,,,,False
+DomainName,dawsongroup.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dawsongroup.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,austen-it.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/austen-it.com
+Tool written by jkerai1",,,,,False
+DomainName,grandrapidswomenshealth.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/grandrapidswomenshealth.com
+Tool written by jkerai1",,,,,False
+DomainName,mcs360.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mcs360.com
+Tool written by jkerai1",,,,,False
+DomainName,bemes.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bemes.com
+Tool written by jkerai1",,,,,False
+DomainName,converzemedia.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/converzemedia.com
+Tool written by jkerai1",,,,,False
+DomainName,goldwind.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/goldwind.com
+Tool written by jkerai1",,,,,False
+DomainName,rpassoc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/rpassoc.com
+Tool written by jkerai1",,,,,False
+DomainName,spiritleatherworks.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/spiritleatherworks.com
+Tool written by jkerai1",,,,,False
+DomainName,hebeler.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hebeler.com
+Tool written by jkerai1",,,,,False
+DomainName,rodo.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/rodo.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,parat-technology.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/parat-technology.com
+Tool written by jkerai1",,,,,False
+DomainName,chuzefitness.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/chuzefitness.com
+Tool written by jkerai1",,,,,False
+DomainName,mtsd-vt.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mtsd-vt.org
+Tool written by jkerai1",,,,,False
+DomainName,udhaiyamdhall.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/udhaiyamdhall.com
+Tool written by jkerai1",,,,,False
+DomainName,des-igngroup.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/des-igngroup.com
+Tool written by jkerai1",,,,,False
+DomainName,dobsystems.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dobsystems.com
+Tool written by jkerai1",,,,,False
+DomainName,smudlers.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/smudlers.com
+Tool written by jkerai1",,,,,False
+DomainName,denford.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/denford.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,esepac.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/esepac.com
+Tool written by jkerai1",,,,,False
+DomainName,fager-mcgee.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/fager-mcgee.com
+Tool written by jkerai1",,,,,False
+DomainName,goldenc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/goldenc.com
+Tool written by jkerai1",,,,,False
+DomainName,sterlinghomes.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sterlinghomes.com.au
+Tool written by jkerai1",,,,,False
+DomainName,igs-inc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/igs-inc.com
+Tool written by jkerai1",,,,,False
+DomainName,xeinadin.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/xeinadin.com
+Tool written by jkerai1",,,,,False
+DomainName,ciasc.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ciasc.mx
+Tool written by jkerai1",,,,,False
+DomainName,csmsa.com.ar,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/csmsa.com.ar
+Tool written by jkerai1",,,,,False
+DomainName,castores.com.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/castores.com.mx
+Tool written by jkerai1",,,,,False
+DomainName,zurcherodioraven.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/zurcherodioraven.com
+Tool written by jkerai1",,,,,False
+DomainName,avescorent.ch,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/avescorent.ch
+Tool written by jkerai1",,,,,False
+DomainName,bkf-fleuren.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bkf-fleuren.de
+Tool written by jkerai1",,,,,False
+DomainName,coastalplainsctr.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/coastalplainsctr.org
+Tool written by jkerai1",,,,,False
+DomainName,tecnifibre.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tecnifibre.com
+Tool written by jkerai1",,,,,False
+DomainName,zrvp.ro,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/zrvp.ro
+Tool written by jkerai1",,,,,False
+DomainName,pickens.sc.us,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pickens.sc.us
+Tool written by jkerai1",,,,,False
+DomainName,hendelsinc.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hendelsinc.com
+Tool written by jkerai1",,,,,False
+DomainName,walkro.eu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/walkro.eu
+Tool written by jkerai1",,,,,False
+DomainName,smbw.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/smbw.com.au
+Tool written by jkerai1",,,,,False
+DomainName,coaxis.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/coaxis.com
+Tool written by jkerai1",,,,,False
+DomainName,richmont.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/richmont.edu
+Tool written by jkerai1",,,,,False
+DomainName,hoffmanestates.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hoffmanestates.org
+Tool written by jkerai1",,,,,False
+DomainName,krijnen.be,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/krijnen.be
+Tool written by jkerai1",,,,,False
+DomainName,eagersautomotive.com.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/eagersautomotive.com.au
+Tool written by jkerai1",,,,,False
+DomainName,contimade.cz,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/contimade.cz
+Tool written by jkerai1",,,,,False
+DomainName,groupe-idea.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/groupe-idea.com
+Tool written by jkerai1",,,,,False
+DomainName,ips-securex.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ips-securex.com
+Tool written by jkerai1",,,,,False
+DomainName,capitalhealth.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/capitalhealth.org
+Tool written by jkerai1",,,,,False
+DomainName,mciwv.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mciwv.com
+Tool written by jkerai1",,,,,False
+DomainName,morganpilate.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/morganpilate.com
+Tool written by jkerai1",,,,,False
+DomainName,agnesb.eu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/agnesb.eu
+Tool written by jkerai1",,,,,False
+DomainName,hartalega.com.my,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hartalega.com.my
+Tool written by jkerai1",,,,,False
+DomainName,tiautoinvestments.co.za,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tiautoinvestments.co.za
+Tool written by jkerai1",,,,,False
+DomainName,twt.co.za,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/twt.co.za
+Tool written by jkerai1",,,,,False
+DomainName,pactchangeslives.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pactchangeslives.com
+Tool written by jkerai1",,,,,False
+DomainName,olea.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/olea.com
+Tool written by jkerai1",,,,,False
+DomainName,arrowinternational.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/arrowinternational.com
+Tool written by jkerai1",,,,,False
+DomainName,turascandinavia.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/turascandinavia.com
+Tool written by jkerai1",,,,,False
+DomainName,amenitek.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/amenitek.com
+Tool written by jkerai1",,,,,False
+DomainName,hosted-it.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hosted-it.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,vasudhapharma.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/vasudhapharma.com
+Tool written by jkerai1",,,,,False
+DomainName,shinwajpn.co.jp,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/shinwajpn.co.jp
+Tool written by jkerai1",,,,,False
+DomainName,maisonsdelavenir.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/maisonsdelavenir.com
+Tool written by jkerai1",,,,,False
+DomainName,jaffeandasher.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/jaffeandasher.com
+Tool written by jkerai1",,,,,False
+DomainName,digipwr.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/digipwr.com
+Tool written by jkerai1",,,,,False
+DomainName,foxsemicon.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/foxsemicon.com
+Tool written by jkerai1",,,,,False
+DomainName,cmmt.com.tw,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cmmt.com.tw
+Tool written by jkerai1",,,,,False
+DomainName,evit.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/evit.edu
+Tool written by jkerai1",,,,,False
+DomainName,shenandoahtx.us,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/shenandoahtx.us
+Tool written by jkerai1",,,,,False
+DomainName,jdbchina.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/jdbchina.com
+Tool written by jkerai1",,,,,False
+DomainName,dywidag.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/dywidag.com
+Tool written by jkerai1",,,,,False
+DomainName,pratt.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pratt.edu
+Tool written by jkerai1",,,,,False
+DomainName,seiu1000.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/seiu1000.org
+Tool written by jkerai1",,,,,False
+DomainName,swiftair.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/swiftair.com
+Tool written by jkerai1",,,,,False
+DomainName,wendy.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/wendy.mx
+Tool written by jkerai1",,,,,False
+DomainName,tvjahnrheine.de,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/tvjahnrheine.de
+Tool written by jkerai1",,,,,False
+DomainName,home-waremmien.be,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/home-waremmien.be
+Tool written by jkerai1",,,,,False
+DomainName,marxan.es,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/marxan.es
+Tool written by jkerai1",,,,,False
+DomainName,bmc-cpa.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bmc-cpa.com
+Tool written by jkerai1",,,,,False
+DomainName,jasman.com.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/jasman.com.mx
+Tool written by jkerai1",,,,,False
+DomainName,stjohnrochester.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/stjohnrochester.org
+Tool written by jkerai1",,,,,False
+DomainName,cct.or.th,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/cct.or.th
+Tool written by jkerai1",,,,,False
+DomainName,duconind.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/duconind.com
+Tool written by jkerai1",,,,,False
+DomainName,gattoplaters.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gattoplaters.com
+Tool written by jkerai1",,,,,False
+DomainName,hughessupplyco.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/hughessupplyco.com
+Tool written by jkerai1",,,,,False
+DomainName,qtc-energy.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/qtc-energy.com
+Tool written by jkerai1",,,,,False
+DomainName,synnex-grp.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/synnex-grp.com
+Tool written by jkerai1",,,,,False
+DomainName,umi-tiles.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/umi-tiles.com
+Tool written by jkerai1",,,,,False
+DomainName,wittmann.at,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/wittmann.at
+Tool written by jkerai1",,,,,False
+DomainName,davidsbridal.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/davidsbridal.com
+Tool written by jkerai1",,,,,False
+DomainName,lyonshipyard.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/lyonshipyard.com
+Tool written by jkerai1",,,,,False
+DomainName,sierrafrontgroup.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sierrafrontgroup.com
+Tool written by jkerai1",,,,,False
+DomainName,icn-artem.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/icn-artem.com
+Tool written by jkerai1",,,,,False
+DomainName,caravanclub.co.uk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/caravanclub.co.uk
+Tool written by jkerai1",,,,,False
+DomainName,securinux.net,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/securinux.net
+Tool written by jkerai1",,,,,False
+DomainName,ehsd.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ehsd.org
+Tool written by jkerai1",,,,,False
+DomainName,ese.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/ese.com
+Tool written by jkerai1",,,,,False
+DomainName,grimme.dk,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/grimme.dk
+Tool written by jkerai1",,,,,False
+DomainName,clackamas.edu,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/clackamas.edu
+Tool written by jkerai1",,,,,False
+DomainName,mrm.com.mx,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mrm.com.mx
+Tool written by jkerai1",,,,,False
+DomainName,sahchicago.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/sahchicago.org
+Tool written by jkerai1",,,,,False
+DomainName,apeagers.au,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/apeagers.au
+Tool written by jkerai1",,,,,False
+DomainName,derrama.org.pe,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/derrama.org.pe
+Tool written by jkerai1",,,,,False
+DomainName,mnorch.org,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/mnorch.org
+Tool written by jkerai1",,,,,False
+DomainName,bandcllp.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/bandcllp.com
+Tool written by jkerai1",,,,,False
+DomainName,taloninternational.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/taloninternational.com
+Tool written by jkerai1",,,,,False
+DomainName,manchesterfertility.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/manchesterfertility.com
+Tool written by jkerai1",,,,,False
+DomainName,stemcor.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/stemcor.com
+Tool written by jkerai1",,,,,False
+DomainName,gatesshields.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/gatesshields.com
+Tool written by jkerai1",,,,,False
+DomainName,lexcaribbean.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/lexcaribbean.com
+Tool written by jkerai1",,,,,False
+DomainName,manitou-group.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/manitou-group.com
+Tool written by jkerai1",,,,,False
+DomainName,pbwtulsa.com,,Block,,Ransomwatch lockbit3,"https://www.virustotal.com/gui/domain/pbwtulsa.com
+Tool written by jkerai1",,,,,False
