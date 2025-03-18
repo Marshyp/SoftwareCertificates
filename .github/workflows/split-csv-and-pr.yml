@@ -1,0 +1,40 @@
+name: Split Large CSVs
+
+on:
+  push:
+    paths:
+      - Bulk-IOC-CSVs/**  # Trigger only when changes are pushed to the Bulk-IOC-CSVs folder
+
+jobs:
+  split_csv:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas
+
+    - name: Run CSV Splitter
+      run: python .github/scripts/splitIOCs.py
+      env:
+        INPUT_DIR: Bulk-IOC-CSVs
+        OUTPUT_DIR: Bulk-IOC-CSVs/for_review
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        commit-message: "Split large CSVs into 500-row batches"
+        branch: csv-split-automation
+        title: "Split CSVs into 500-row batches"
+        body: |
+          This PR contains CSV files split into 500-row batches (including headers) from the `Bulk-IOC-CSVs` folder. 
+          Review the changes and merge if appropriate.

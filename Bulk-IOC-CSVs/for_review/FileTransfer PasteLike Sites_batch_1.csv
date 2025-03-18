@@ -1,0 +1,117 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,RbacGroups,Category,MitreTechniques,GenerateAlert
+DomainName,wetransfer.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,notion.so,,Block,Informational,File Transfer,Unsanctioned Notion Sometimes used to proxy malicious Links in environment,Unsanctioned,,,,False
+DomainName,evernote.com,,Block,Informational,File Transfer,Unsanctioned Evernote Sometimes used to proxy malicious Links in environment,Unsanctioned,,,,False
+DomainName,bitbucket.org,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,dropbox.com,,Audit,Informational,File Transfer IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned.IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned,,,,True
+DomainName,sendtodropbox.com,,Audit,Informational,File Transfer IN AUDIT TO PREVENT BUSINESS IMPACT.,Unsanctioned. IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned,,,,True
+DomainName,dropboxdocs.com,,Audit,Informational,File Transfer IN AUDIT TO PREVENT BUSINESS IMPACT.,Unsanctioned. IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned,,,,True
+DomainName,dropboxmail.com,,Audit,Informational,File Transfer IN AUDIT TO PREVENT BUSINESS IMPACT.,Unsanctioned. IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned,,,,True
+DomainName,drive.google.com,,Audit,Informational,File Transfer IN AUDIT TO PREVENT BUSINESS IMPACT.,Unsanctioned.IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned,,,,True
+DomainName,box.com,,Audit,Informational,File Transfer IN AUDIT TO PREVENT BUSINESS IMPACT.,Unsanctioned. IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned,,,,True
+DomainName,docsend.com,,Audit,Informational,File Transfer IN AUDIT TO PREVENT BUSINESS IMPACT.,Unsanctioned. IN AUDIT TO PREVENT BUSINESS IMPACT,Unsanctioned,,,,True
+DomainName,pastebin.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,justpaste.it,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,kpaste.net,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,dpaste.org,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,zerobin.tk,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,send.vis.ee,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,bin.sx,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,transferxl.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,transfertpro.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,transfernow.net ,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,paste.debian.net,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pastecry.pt,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,protectedtext.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,codedpad.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,rlim.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pastecode.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,codeishot.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pastebin.ai,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,bingner.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,paste.fo,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,paste.pics,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,gyazo.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pasteboard.co,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,snipboard.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,puush.me,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,wormhole.app,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,drop.lol,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,dropall.stream,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,sendbig.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,transferkit.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,sendfileonline.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,fromsmash.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,jumbomail.me,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,mediafire.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,send-anywhere.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,jumpshare.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,sendfilessecurely.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,filetransfer.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,megaupload.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,krakenfiles.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,kruegervich.net,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,swisstransfer.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pixeldrain.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,sendgb.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,gofile.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,sendthisfile.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,terabox.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,filelist.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,justbeamit.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,uploadnow.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,tempfile.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,file.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,tmpsend.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,tmpfiles.org,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,temp-file-share.web.app,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,temp.sh,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,filebin.net,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,r2.dev,,Block,Informational,File Transfer/Paste Like Site,Cloudflare bucket Unsanctioned,Unsanctioned,,,,False
+DomainName,transferbigfiles.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,sendtodropbox.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,plustransfer.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pcloud.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pastehtml.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,paste.sx,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,mega.nz,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,mega.io,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,filefactory.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,dpaste.de,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,dpaste.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,pasted.co,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,controlc.com,,Block,Informational,File Transfer/Paste Like Site,Unsanctioned,Unsanctioned,,,,False
+DomainName,ipfs.tech,,Block,Informational,File Transfer (IPFS),Unsanctioned,Unsanctioned,,,,False
+DomainName,ipfs.io,,Block,Informational,File Transfer (IPFS),Unsanctioned,Unsanctioned,,,,False
+DomainName,cf-ipfs.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,freefilesync.org,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,dropsend.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,onionshare.org,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,filezilla-project.org,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,syncthing.net,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,ix.io,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,localhost.run,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,requestbin.net,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,anonfiles.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,sprunge.us,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,termbin.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,filecloudonline.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,pastebin.pl,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,4sync.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,pastie.org,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,ideone.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,textbin.net,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,zerobin.net,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,codesandbox.io,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,cloudwaysapps.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,clbin.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,wtools.io,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,paste.ee,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,siasky.net,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,backblazeb2.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,sendspace.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,plesk.page,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,wasabisys.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,inmotionhosting.com,,Block,Informational,File Transfer,Unsanctioned,Unsanctioned,,,,False
+DomainName,flameshot.org,,Block,Informational,File Transfer,Screenshotting tool with cloud upload functionality,Unsanctioned,,,,False
+DomainName,imgbb.com,,Block,Informational,File Transfer,Screenshotting tool with cloud upload functionality,Unsanctioned,,,,False
